@@ -35,7 +35,12 @@ export function localDataPlugin(): Plugin {
       }
       if (url.pathname === '/api/bootstrap' && req.method === 'GET') {
         const runs = await getRuns(); const run = runs.find(r => r.id === url.searchParams.get('run')) ?? runs[0] ?? null;
-        return json(res, { runs: runs.map(({ items: _items, ...rest }) => rest), run, config: await getConfig(), annotations: await readJson(path.join(dataDir, 'annotations.json'), {}), requests: await requests() });
+        const appItems = new Map<string,{item:typeof runs[number]['items'][number];runId:string}>();
+        for (const batch of runs) for (const item of batch.items) if (item.researchTrack === 'app_research') {
+          const previous=appItems.get(item.id);
+          if (!previous || Date.parse(item.capturedAt)>Date.parse(previous.item.capturedAt)) appItems.set(item.id,{item,runId:batch.id});
+        }
+        return json(res, { appResearchItems:[...appItems.values()], runs: runs.map(({ items: _items, ...rest }) => rest), run, config: await getConfig(), annotations: await readJson(path.join(dataDir, 'annotations.json'), {}), requests: await requests() });
       }
       if (url.pathname === '/api/config' && req.method === 'POST') {
         const config = configSchema.parse(await body(req)); await serial(() => writeJson(path.join(dataDir, 'config.json'), config)); return json(res, config);
@@ -47,8 +52,8 @@ export function localDataPlugin(): Plugin {
       }
       if (url.pathname === '/api/import' && req.method === 'POST') { const input = await body(req); return json(res, await serial(() => saveRun(input))); }
       if (url.pathname === '/api/requests' && req.method === 'POST') {
-        const { date } = z.object({date:z.string().regex(/^\d{4}-\d{2}-\d{2}$/)}).parse(await body(req));
-        const request = { id: randomUUID(), date, createdAt: new Date().toISOString(), status: 'pending' as const, prompt: collectionPrompt(date) };
+        const { date, track } = z.object({date:z.string().regex(/^\d{4}-\d{2}-\d{2}$/),track:z.enum(['daily','app_research']).default('daily')}).parse(await body(req));
+        const request = { id: randomUUID(), date, track, createdAt: new Date().toISOString(), status: 'pending' as const, prompt: collectionPrompt(date, track) };
         await serial(() => writeJson(path.join(dataDir,'requests',`${request.id}.json`),request)); return json(res,request);
       }
       return json(res, { error:'接口不存在' }, 404);
