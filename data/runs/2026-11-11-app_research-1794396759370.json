@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-app_research-1794396759370",
+  "date": "2026-11-11",
+  "startedAt": "2026-11-11T11:32:39.370Z",
+  "finishedAt": "2026-11-11T11:41:54.610Z",
+  "status": "partial",
+  "track": "app_research",
+  "mode": "daily",
+  "config": {
+    "timezone": "Asia/Shanghai",
+    "windowDays": 7,
+    "topPerPlatform": 50,
+    "candidatePerKeyword": 60,
+    "commentsPerItem": 50,
+    "recentCommentsPerItem": 20,
+    "frameCount": 5,
+    "keywords": [
+      "健身",
+      "运动健康",
+      "体态分析",
+      "减脂",
+      "减肥",
+      "增肌",
+      "力量训练",
+      "圆肩驼背"
+    ],
+    "includePromotion": true,
+    "appResearch": {
+      "enabled": true,
+      "windowDays": 30,
+      "postsPerGroup": 10,
+      "mainstreamApps": [
+        "Keep",
+        "薄荷健康",
+        "训记",
+        "练练健身"
+      ],
+      "keywords": [
+        "健身app 推荐",
+        "健身app 吐槽",
+        "健身记录app",
+        "独立开发 健身app",
+        "我做了个健身app",
+        "AI健身app"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "xiaohongshu:6af32ba00000000023012ae1",
+      "platform": "xiaohongshu",
+      "platformId": "6af32ba00000000023012ae1",
+      "title": "健身猫功能已上线",
+      "author": "健身猫主理人-肥特",
+      "url": "https://www.xiaohongshu.com/explore/6af32ba00000000023012ae1?xsec_token=ABNdNk1mGYSOqKu4nUWGdyLR1CS8wZg06_xQKDnYKghiY=&xsec_source=pc_feed",
+      "publishedAt": "2026-11-10",
+      "publishedText": "昨天 22:35 广东",
+      "capturedAt": "2026-11-11T11:34:21.052Z",
+      "topics": [
+        "健身App"
+      ],
+      "contentType": "产品发布",
+      "format": "image_note",
+      "researchTrack": "app_research",
+      "appResearch": {
+        "appNames": [
+          "健身猫"
+        ],
+        "productGroup": "indie",
+        "postType": "开发者发布",
+        "dimensions": [
+          "训练计划",
+          "饮食记录",
+          "动作评估",
+          "器械识别",
+          "训练统计",
+          "人格激励",
+          "安卓下载"
+        ],
+        "classificationEvidence": "发布账号为健身猫主理人-肥特，配图品牌为健身猫；上架页提供者为个人。属于开发者发布线索，未核验团队规模或独立用户使用效果。"
+      },
+      "duration": null,
+      "audience": [],
+      "summary": "完整观察6页功能介绍：训练清单、拍餐营养估算、视频动作评估/轨迹、器械识别与动作替代、训练饮食统计日历、健身人格测试。5条评论中只有1条非作者的安卓询问，其余为作者回答与进群引导；不作为多人使用验证。",
+      "metrics": {
+        "likes": {
+          "value": 5,
+          "display": "5",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 5,
+          "display": "5",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 5,
+          "display": "5",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "健身猫",
+          "健身猫app"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%2581%25A5%25E8%25BA%25AB%25E7%258C%25AB&source=web_explore_feed",
+        "sort": "定向产品研究，默认综合搜索，不是热榜",
+        "timeWindow": "近30天；编辑日期与发布日期分开记录",
+        "rank": null,
+        "scope": "本次多关键词搜索候选池；不是全站热榜，也不是市场排名。"
+      },
+      "frames": [
+        {
+          "id": "page-01",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af32ba00000000023012ae1/page-01.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第1页 · 今日训练计划",
+          "observed": "白底绿线编辑式版面，标题“今天练什么先看计划”，并列展示今日安排、分阶段训练与组次示例；手机界面为发布图中的示例。"
+        },
+        {
+          "id": "page-02",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af32ba00000000023012ae1/page-02.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第2页 · 拍餐与营养记录",
+          "observed": "拍餐估算热量、蛋白质、碳水和脂肪，支持记录到饮食并生成打卡贴纸；属于发布图声明，未实测识别准确度。"
+        },
+        {
+          "id": "page-03",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af32ba00000000023012ae1/page-03.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第3页 · 视频动作评估与轨迹",
+          "observed": "动作评估示例要求先选动作、上传5至15秒视频；轨迹示例标注30秒内、17+关键点和关节路径。未用真实视频验证纠错能力。"
+        },
+        {
+          "id": "page-04",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af32ba00000000023012ae1/page-04.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第4页 · 器械识别与动作替代",
+          "observed": "拍照查看器械名称、调节与适用动作；根据目标肌群、器械和难度寻找替代。"
+        },
+        {
+          "id": "page-05",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af32ba00000000023012ae1/page-05.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第5页 · 统计日历与趋势",
+          "observed": "同日展示训练和饮食，查看训练次数、时长及近7天趋势；示例数值不是本次采集的真实用户数据。"
+        },
+        {
+          "id": "page-06",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af32ba00000000023012ae1/page-06.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第6页 · 健身人格与角色图鉴",
+          "observed": "按5个维度进行约3分钟测试，展示32种风格的猫角色图鉴；未验证测评有效性或留存作用。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "comment-6af415d4000000000a023b34",
+          "text": "有安卓吗",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4小时前",
+          "capturedAt": "2026-11-11T11:34:21.053Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af421f300000000020129ba",
+          "text": "有的",
+          "likes": null,
+          "isAuthor": true,
+          "isPromotion": false,
+          "parentId": "comment-6af415d4000000000a023b34",
+          "publishedText": "3小时前",
+          "capturedAt": "2026-11-11T11:34:21.053Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af32fe7000000000201196d",
+          "text": "进群交流",
+          "likes": null,
+          "isAuthor": true,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "昨天 22:53",
+          "capturedAt": "2026-11-11T11:34:21.053Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af32fdc000000000f02c485",
+          "text": "健身猫交流群",
+          "likes": null,
+          "isAuthor": true,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "昨天 22:53",
+          "capturedAt": "2026-11-11T11:34:21.053Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af4220500000000020299f6",
+          "text": "群里面下载",
+          "likes": null,
+          "isAuthor": true,
+          "isPromotion": false,
+          "parentId": "comment-6af415d4000000000a023b34",
+          "publishedText": "3小时前",
+          "capturedAt": "2026-11-11T11:34:21.053Z",
+          "tags": []
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐条展开可访问楼中楼并滚动读取；按平台评论ID去重",
+        "displayedTotal": 5,
+        "captured": 5,
+        "expandedReplies": true,
+        "limitations": [
+          "仅能确认当前账号可访问部分，不包含隐藏、删除或平台限制的评论。"
+        ],
+        "readStatus": "all_visible",
+        "resumeCursor": "comment-6af4220500000000020299f6",
+        "stopReason": "页面已出现THE END，全部可访问回复已展开并读取。"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "大字提出今天练什么的问题，再以功能步骤和手机界面解释产品；猫角色作为任务视觉标识。",
+        "structure": [],
+        "hypotheses": [
+          {
+            "title": "具体任务与界面并排有利于理解功能",
+            "explanation": "6页逐项说明使用场景，但仅5赞且只有1条非作者评论，未获得转化或留存证据。",
+            "evidenceIds": [
+              "page-01",
+              "page-03",
+              "page-04"
+            ],
+            "confidence": "low",
+            "alternative": "没有曝光、投流或完整观众数据，互动与此内容特征的因果尚不能确定。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "安卓安装入口需要直接可发现",
+            "description": "一位用户明确询问安卓，作者回复有安卓且需进群下载。此处反映获取路径疑问，未验证安卓包的功能质量或分发安全。",
+            "commentIds": [
+              "comment-6af415d4000000000a023b34"
+            ],
+            "priority": "P1",
+            "opportunity": "在发布内容和下载页明确支持平台、版本及正规获取方式，让用户无需追问或进群才知道入口。"
+          }
+        ],
+        "limitations": [
+          "本轮实际观察首屏截图与正文，未逐页核实全部配图。",
+          "产品能力与价格属于帖子/评论中的陈述，未逐项实测核验。"
+        ],
+        "healthClaims": []
+      }
+    },
+    {
+      "id": "xiaohongshu:6af1ed40000000003501f2e7",
+      "platform": "xiaohongshu",
+      "platformId": "6af1ed40000000003501f2e7",
+      "title": "健身猫，教练工具已发布",
+      "author": "健身猫主理人-肥特",
+      "url": "https://www.xiaohongshu.com/explore/6af1ed40000000003501f2e7?xsec_token=ABmSQOiJyYjl-y415rJkiKhXqXg3sdKWGYZFyvGb-6q8s=&xsec_source=pc_feed",
+      "publishedAt": null,
+      "publishedText": "编辑于 1天前 广东",
+      "capturedAt": "2026-11-11T11:36:44.290Z",
+      "topics": [
+        "健身App"
+      ],
+      "contentType": "产品发布",
+      "format": "image_note",
+      "researchTrack": "app_research",
+      "appResearch": {
+        "appNames": [
+          "健身猫"
+        ],
+        "productGroup": "indie",
+        "postType": "开发者发布",
+        "dimensions": [
+          "教练工具",
+          "学员管理",
+          "训练模板",
+          "饮食模板",
+          "私教课记录",
+          "计划分发"
+        ],
+        "classificationEvidence": "同一健身猫主理人账号发布，截图显示该App教练中心；属于开发者功能展示，没有教练用户反馈。"
+      },
+      "duration": null,
+      "audience": [],
+      "summary": "完整观察7页：官网式下载介绍、教练中心、二维码绑定、训练与饮食模板分发、私教课纪要和录音回放、模板创建及公共饮食模板。评论为空；仅显示编辑日期，原始发布时间未知，不计近30天确认入选。",
+      "metrics": {
+        "likes": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 1,
+          "display": "1",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 0,
+          "display": "0",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "健身猫app"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%2581%25A5%25E8%25BA%25AB%25E7%258C%25ABapp&source=web_explore_feed",
+        "sort": "定向产品研究，默认综合搜索",
+        "timeWindow": "近30天；编辑日期与发布日期分开记录",
+        "rank": null,
+        "scope": "本次多关键词搜索候选池；不是全站热榜，也不是市场排名。"
+      },
+      "frames": [
+        {
+          "id": "page-01",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af1ed40000000003501f2e7/page-01.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第1页 · 官网式下载介绍",
+          "observed": "白底页面宣传AI健身教练肥特，并列iPhone和Android及下载按钮；它是帖子中的配图，不代表本次已成功访问官网。"
+        },
+        {
+          "id": "page-02",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af1ed40000000003501f2e7/page-02.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第2页 · 教练中心与试用状态",
+          "observed": "教练中心示例显示学员数、模板数、课纪要数均为0，合作权益未开通，私教课试用显示1节；不能据此推断真实用户量或全部账户权益。"
+        },
+        {
+          "id": "page-03",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af1ed40000000003501f2e7/page-03.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第3页 · 二维码绑定学员",
+          "observed": "展示个人主页二维码供学员扫码绑定；本次未扫码、绑定或联系任何人。"
+        },
+        {
+          "id": "page-04",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af1ed40000000003501f2e7/page-04.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第4页 · 教练交付工具",
+          "observed": "邀请学员、私教课记录、训练和饮食模板、分发训练计划及饮食计划；图中说明饮食分发由学员确认后生效。"
+        },
+        {
+          "id": "page-05",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af1ed40000000003501f2e7/page-05.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第5页 · 私教课档案",
+          "observed": "示例宣称每节课整理纪要、动作组数与录音回放，当前示例无完成课程；未实测转写与整理质量。"
+        },
+        {
+          "id": "page-06",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af1ed40000000003501f2e7/page-06.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第6页 · 训练模板创建",
+          "observed": "支持周计划和分化训练模板，示例尚无模板；用于之后向学员分发。"
+        },
+        {
+          "id": "page-07",
+          "path": "assets/2026-11-11-app_research-1794396759370/xiaohongshu/6af1ed40000000003501f2e7/page-07.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "第7页 · 饮食模板与公共库",
+          "observed": "展示自建模板入口、公共模板及目标分类；热量和宏量比例只是截图内容，没有进行营养有效性核验。"
+        }
+      ],
+      "comments": [],
+      "commentSampling": {
+        "strategy": "低频逐条展开可访问楼中楼并滚动读取；按平台评论ID去重",
+        "displayedTotal": 0,
+        "captured": 0,
+        "expandedReplies": false,
+        "limitations": [
+          "仅能确认当前账号可访问部分，不包含隐藏、删除或平台限制的评论。"
+        ],
+        "readStatus": "all_visible",
+        "resumeCursor": "",
+        "stopReason": "当前页面明确显示空评论状态，无可访问评论。"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "以教练工具发布为主题，配图解释从绑定学员到分发计划的工作流程。",
+        "structure": [],
+        "hypotheses": [
+          {
+            "title": "教练交付流程可能形成不同付费对象",
+            "explanation": "截图覆盖学员绑定、模板分发和课纪要，但示例数据为空且无评论，只能作为待验证的业务方向。",
+            "evidenceIds": [
+              "page-02",
+              "page-04",
+              "page-05"
+            ],
+            "confidence": "low",
+            "alternative": "没有曝光、投流或完整观众数据，互动与此内容特征的因果尚不能确定。"
+          }
+        ],
+        "needs": [],
+        "limitations": [
+          "本轮实际观察首屏截图与正文，未逐页核实全部配图。",
+          "产品能力与价格属于帖子/评论中的陈述，未逐项实测核验。",
+          "页面只展示编辑日期，原始发布日期未知，不纳入近30天入选数量。"
+        ],
+        "healthClaims": []
+      }
+    }
+  ],
+  "selectedIds": [
+    "xiaohongshu:6af32ba00000000023012ae1"
+  ],
+  "coverage": [
+    {
+      "platform": "xiaohongshu",
+      "keyword": "健身猫",
+      "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%2581%25A5%25E8%25BA%25AB%25E7%258C%25AB&source=web_explore_feed",
+      "sort": "默认综合，未设置日期或点赞排序",
+      "timeWindow": "详情核实近30天，编辑时间单独记录",
+      "scanned": 20,
+      "stopReason": "读取有限搜索候选后按研究主题采样，未穷尽全站结果"
+    },
+    {
+      "platform": "xiaohongshu",
+      "keyword": "健身猫app",
+      "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%2581%25A5%25E8%25BA%25AB%25E7%258C%25ABapp&source=web_explore_feed",
+      "sort": "默认综合，未设置日期或点赞排序",
+      "timeWindow": "详情核实近30天，编辑时间单独记录",
+      "scanned": 20,
+      "stopReason": "读取有限搜索候选后按研究主题采样，未穷尽全站结果"
+    },
+    {
+      "platform": "xiaohongshu",
+      "keyword": "健身猫 体验",
+      "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%2581%25A5%25E8%25BA%25AB%25E7%258C%25AB%2520%25E4%25BD%2593%25E9%25AA%258C&source=web_explore_feed",
+      "sort": "默认搜索；关闭自动AI总结，不将AI总结计作真实评价",
+      "timeWindow": "详情核实近30天，编辑时间单独记录",
+      "scanned": 20,
+      "stopReason": "读取有限搜索候选后按研究主题采样，未穷尽全站结果"
+    }
+  ],
+  "report": {
+    "summary": "健身猫专项调研：功能已覆盖C端训练/饮食/视频分析，也延伸到教练端交付。当前更值得验证功能预期、首次使用路径和专业可信度；公开用户证据很少，不据此判断整体口碑。",
+    "findings": [
+      "实时App Store页面为1.1.7，搜索缓存仍是1.1.6。研究以实时版本为准；当前中国区页面显示2个评分、3.5分，可读文字评论1条，样本过小。来源：https://apps.apple.com/cn/app/健身猫/id6761375227",
+      "已逐页观察两篇开发者发布帖的13页配图。C端声明涵盖训练计划、拍餐估算、视频评估/轨迹、器械识别与替换、统计日历和人格激励；属于功能展示，未用真实输入实测效果。",
+      "教练端展示绑定学员、模板复用和分发、私教课纪要与录音回放。没有教练反馈可验证该工作流的效果或付费意愿，需与个人用户业务分别验证。",
+      "App Store一条9月历史评论集中反映宣传预期、视频功能发现、计划合理性、手动操作负担和会员价值的落差；后续宣传图已出现视频评估，不能将旧评论当作当前版本缺功能的证明。",
+      "近期功能帖5条评论中，1条为用户询问安卓，其余4条为作者回答或进群引导。作者称安卓可在群中下载，当前未核验安装包或分发渠道。",
+      "本次搜索结果包含宠物、同名场馆经营产品和喵练/Pawlift；已把确认属于其他App的帖子剔除。不能把关键词命中数量当作健身猫用户讨论量。"
+    ],
+    "opportunities": [
+      "先验证3个首次使用任务：按器材生成并确认一次计划、上传一段视频获得可执行反馈、器械被占时替换动作并继续记录。记录完成率、耗时和失败原因。",
+      "用真实端到端演示解释动作讲解、视频评估、轨迹回放之间的区别，避免用户将预览图或聊天回答误认为视频纠错。",
+      "计划结果展示选择依据、适用条件、上次表现与调整原因；先验证用户能否看懂并正确应用，再扩大AI入口。",
+      "让用户体验一次核心结果及修改过程后理解会员价值；中国区当前列价与历史评论中的价格不同，不能仅凭旧评论判断现价贵或便宜。",
+      "教练端单独找有学员的教练验证一节课纪要到模板分发、学员确认和回访的闭环，不把开发者发布图当作已建立商业需求。"
+    ],
+    "limitations": [
+      "本轮为单App定向调研，不是每日两组各10帖采集。3个关键词各读取首批20个搜索候选，结果含重复和不相关内容。",
+      "正式入库2篇目标产品开发者帖子、5条可访问评论、13张配图。两帖评论均确认末尾或明确空状态；另1篇经核实为其他产品的帖子仅保留排除依据。",
+      "可读的独立使用反馈主要来自1条App Store历史文字评论；未获取下载量、活跃、留存、收入或转化数据，不能推断产品市场规模。",
+      "官网本次通过工具和浏览器均未成功访问，浏览器报告ERR_CONNECTION_RESET；官网内容未核验。发布图中的官网画面不冒充本次官网实测。",
+      "未安装或登录手机App，未测试AI计划、视频识别准确率、付费流程或安卓包；截图和商店文案均属公开声明。",
+      "教练工具帖子只显示编辑日期，原始发布日期未知，因此2帖仅1帖满足当前近30天确认入选条件。"
+    ]
+  }
+}

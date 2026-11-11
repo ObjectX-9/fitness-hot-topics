@@ -1,0 +1,842 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-history",
+  "date": "2026-11-11",
+  "startedAt": "2026-11-11T08:30:39.764489+00:00",
+  "finishedAt": "2026-11-11T08:45:13.145466+00:00",
+  "status": "partial",
+  "mode": "historical_import",
+  "config": {
+    "timezone": "Asia/Shanghai",
+    "windowDays": 7,
+    "topPerPlatform": 50,
+    "candidatePerKeyword": 60,
+    "commentsPerItem": 50,
+    "recentCommentsPerItem": 20,
+    "frameCount": 5,
+    "keywords": [
+      "健身",
+      "运动健康",
+      "体态分析",
+      "减脂",
+      "减肥",
+      "增肌",
+      "力量训练",
+      "圆肩驼背"
+    ],
+    "includePromotion": true
+  },
+  "items": [
+    {
+      "id": "douyin:7704313094515859337",
+      "platform": "douyin",
+      "platformId": "7704313094515859337",
+      "title": "体前屈满分教学",
+      "author": "忘空信.",
+      "url": "https://www.douyin.com/video/7704313094515859337",
+      "publishedAt": "2026-11-05",
+      "publishedText": "2026-11-05",
+      "capturedAt": "2026-11-11T08:30:39.764489+00:00",
+      "topics": [
+        "健身"
+      ],
+      "contentType": "运动娱乐",
+      "format": "video",
+      "duration": 7,
+      "audience": [],
+      "summary": "学校体前屈测试场景中，标尺发生夸张位移，呈现与“满分教学”预期不同的喜剧效果。",
+      "metrics": {
+        "likes": {
+          "value": 795000,
+          "display": "79.5万",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 9896,
+          "display": "9896",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": 531000,
+          "display": "53.1万",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "健身"
+        ],
+        "sourceUrl": "https://douhot.douyin.com/square/hotspot",
+        "sort": "历史热点榜样本",
+        "timeWindow": "此前手动采集",
+        "rank": null,
+        "scope": "历史样本导入，非本仓库每日Top50流程采集。"
+      },
+      "frames": [
+        {
+          "id": "frame-1",
+          "path": "assets/2026-11-11-history/douyin/7704313094515859337/frame-1.png",
+          "kind": "video_frame",
+          "timestamp": 1,
+          "caption": "1秒 · 体前屈场景",
+          "observed": "以体测器械与动作变化承接短视频笑点。"
+        },
+        {
+          "id": "frame-2",
+          "path": "assets/2026-11-11-history/douyin/7704313094515859337/frame-3.png",
+          "kind": "video_frame",
+          "timestamp": 3,
+          "caption": "3秒 · 体前屈场景",
+          "observed": "以体测器械与动作变化承接短视频笑点。"
+        },
+        {
+          "id": "frame-3",
+          "path": "assets/2026-11-11-history/douyin/7704313094515859337/frame-5.png",
+          "kind": "video_frame",
+          "timestamp": 5,
+          "caption": "5秒 · 体前屈场景",
+          "observed": "以体测器械与动作变化承接短视频笑点。"
+        }
+      ],
+      "comments": [],
+      "commentSampling": {
+        "strategy": "页面初始可见评论中选取的历史原话",
+        "displayedTotal": 9896,
+        "captured": 0,
+        "expandedReplies": false,
+        "limitations": [
+          "仅为此前读取的部分可见评论，不代表全部用户意见。",
+          "未完成热评与最新评论的双排序采样。"
+        ]
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "“满分教学”的标题预期与画面中的体测意外形成反差。",
+        "structure": [],
+        "hypotheses": [
+          {
+            "title": "共同体测经历与反差",
+            "explanation": "场景容易唤起学生体测记忆，标题为后续喜剧变化建立预期。",
+            "evidenceIds": [
+              "title",
+              "frame-1",
+              "frame-3"
+            ],
+            "confidence": "medium",
+            "alternative": "未获曝光、完播与投流数据，不能证明互动由该因素导致。"
+          },
+          {
+            "title": "具有转发给同学的用途",
+            "explanation": "页面显示分享53.1万，具备明显分享行为；具体传播动机仍需更多评论验证。",
+            "evidenceIds": [
+              "metrics"
+            ],
+            "confidence": "medium",
+            "alternative": "未获曝光、完播与投流数据，不能证明互动由该因素导致。"
+          }
+        ],
+        "needs": [],
+        "limitations": [
+          "历史样本，未完成标准每日采样。"
+        ],
+        "healthClaims": []
+      }
+    },
+    {
+      "id": "douyin:7706092597119191409",
+      "platform": "douyin",
+      "platformId": "7706092597119191409",
+      "title": "50岁而已，健身＋吃铁8年，迎来了我的中女时代",
+      "author": "痴迷运动的50岁姐姐",
+      "url": "https://www.douyin.com/video/7706092597119191409",
+      "publishedAt": "2026-11-10",
+      "publishedText": "2026-11-10",
+      "capturedAt": "2026-11-11T08:30:39.764489+00:00",
+      "topics": [
+        "健身"
+      ],
+      "contentType": "励志故事",
+      "format": "video",
+      "duration": 24,
+      "audience": [
+        "中年健身兴趣人群"
+      ],
+      "summary": "女性创作者用身材画面与“50岁、坚持8年”的叙述，表达中年健康和力量感。",
+      "metrics": {
+        "likes": {
+          "value": 27000,
+          "display": "2.7万",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 2957,
+          "display": "2957",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": 57000,
+          "display": "5.7万",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "健身"
+        ],
+        "sourceUrl": "https://douhot.douyin.com/square/hotspot",
+        "sort": "历史热点榜样本",
+        "timeWindow": "此前手动采集",
+        "rank": null,
+        "scope": "历史样本导入，非本仓库每日Top50流程采集。"
+      },
+      "frames": [
+        {
+          "id": "frame-1",
+          "path": "assets/2026-11-11-history/douyin/7706092597119191409/frame-2.png",
+          "kind": "video_frame",
+          "timestamp": 2,
+          "caption": "2秒 · 身材与状态展示",
+          "observed": "室内窗前的健身状态展示；年龄和坚持年限来自标题叙述。"
+        },
+        {
+          "id": "frame-2",
+          "path": "assets/2026-11-11-history/douyin/7706092597119191409/frame-10.png",
+          "kind": "video_frame",
+          "timestamp": 10,
+          "caption": "10秒 · 身材与状态展示",
+          "observed": "室内窗前的健身状态展示；年龄和坚持年限来自标题叙述。"
+        },
+        {
+          "id": "frame-3",
+          "path": "assets/2026-11-11-history/douyin/7706092597119191409/frame-20.png",
+          "kind": "video_frame",
+          "timestamp": 20,
+          "caption": "20秒 · 身材与状态展示",
+          "observed": "室内窗前的健身状态展示；年龄和坚持年限来自标题叙述。"
+        }
+      ],
+      "comments": [],
+      "commentSampling": {
+        "strategy": "页面初始可见评论中选取的历史原话",
+        "displayedTotal": 2957,
+        "captured": 0,
+        "expandedReplies": false,
+        "limitations": [
+          "仅为此前读取的部分可见评论，不代表全部用户意见。",
+          "未完成热评与最新评论的双排序采样。"
+        ]
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "“50岁＋坚持8年”与可见体态共同构成身份反差。",
+        "structure": [],
+        "hypotheses": [
+          {
+            "title": "年龄身份与自我投射",
+            "explanation": "把训练成果放入中年生活叙事，可能使同龄人代入。",
+            "evidenceIds": [
+              "title",
+              "frame-1"
+            ],
+            "confidence": "medium",
+            "alternative": "未获曝光、完播与投流数据，不能证明互动由该因素导致。"
+          },
+          {
+            "title": "分享行为值得进一步调查",
+            "explanation": "页面显示分享量高于点赞量，但看不到分享对象与具体动机。",
+            "evidenceIds": [
+              "metrics"
+            ],
+            "confidence": "low",
+            "alternative": "未获曝光、完播与投流数据，不能证明互动由该因素导致。"
+          }
+        ],
+        "needs": [],
+        "limitations": [
+          "历史样本，未完成标准每日采样。"
+        ],
+        "healthClaims": []
+      }
+    },
+    {
+      "id": "xiaohongshu:6aeb144d000000001503e7c5",
+      "platform": "xiaohongshu",
+      "platformId": "6aeb144d000000001503e7c5",
+      "title": "无效健身8大表现，踩坑等于白练",
+      "author": "瘦成一道小闪电",
+      "url": "https://www.xiaohongshu.com/explore/6aeb144d000000001503e7c5",
+      "publishedAt": "2026-11-05",
+      "publishedText": "2026-11-05",
+      "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+      "topics": [
+        "健身"
+      ],
+      "contentType": "知识科普",
+      "format": "image_note",
+      "duration": null,
+      "audience": [],
+      "summary": "9页图文以“无效健身”清单呈现训练和饮食问题，评论讨论训练顺序、营养与练后安排。",
+      "metrics": {
+        "likes": {
+          "value": 2351,
+          "display": "2351",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 1741,
+          "display": "1741",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 157,
+          "display": "157",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "健身"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%81%A5%E8%BA%AB",
+        "sort": "最多点赞",
+        "timeWindow": "此前手动采集",
+        "rank": null,
+        "scope": "历史样本导入，非本仓库每日Top50流程采集。"
+      },
+      "frames": [
+        {
+          "id": "frame-1",
+          "path": "assets/2026-11-11-history/xiaohongshu/6aeb144d000000001503e7c5/page-01.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "首屏 · 无效健身8大表现",
+          "observed": "黄色底、大字标题和蛋白质示意图，以清单形式呈现内容。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "history-6aeb144d000000001503e7c5-1",
+          "text": "先有氧再无氧可以不",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "训练计划"
+          ]
+        },
+        {
+          "id": "history-6aeb144d000000001503e7c5-2",
+          "text": "最好是几天有氧，几天力量训练比较好呢？",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "训练计划"
+          ]
+        },
+        {
+          "id": "history-6aeb144d000000001503e7c5-3",
+          "text": "我一般晚饭后健身，然后洗澡睡觉，第二天早餐才补充蛋白质，请问还有用吗？",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "饮食管理"
+          ]
+        },
+        {
+          "id": "history-6aeb144d000000001503e7c5-4",
+          "text": "但，运动后睡不着",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "身体不适"
+          ]
+        }
+      ],
+      "commentSampling": {
+        "strategy": "页面初始可见评论中选取的历史原话",
+        "displayedTotal": 157,
+        "captured": 4,
+        "expandedReplies": false,
+        "limitations": [
+          "仅为此前读取的部分可见评论，不代表全部用户意见。",
+          "未完成热评与最新评论的双排序采样。"
+        ]
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "“练了却没效果”的焦虑，通过8项清单引导用户自查。",
+        "structure": [],
+        "hypotheses": [
+          {
+            "title": "自查清单促进保存",
+            "explanation": "1741收藏与2351点赞表明明显的保存行为，清单形式可能便于回看。",
+            "evidenceIds": [
+              "title",
+              "frame-1",
+              "metrics"
+            ],
+            "confidence": "medium",
+            "alternative": "未获曝光、完播与投流数据，不能证明互动由该因素导致。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "训练安排不明确",
+            "description": "用户想知道有氧与力量的顺序、每周分配。",
+            "commentIds": [
+              "history-6aeb144d000000001503e7c5-1",
+              "history-6aeb144d000000001503e7c5-2"
+            ],
+            "priority": "P1",
+            "opportunity": "制作训练顺序与周计划选择工具，解释适用条件。"
+          },
+          {
+            "id": "need-2",
+            "title": "练后饮食如何衔接生活",
+            "description": "晚间训练者不清楚如何安排饮食。",
+            "commentIds": [
+              "history-6aeb144d000000001503e7c5-3"
+            ],
+            "priority": "P1",
+            "opportunity": "提供结合训练时段的饮食教育内容，避免绝对化时间规则。"
+          }
+        ],
+        "limitations": [
+          "历史样本，未完成标准每日采样。"
+        ],
+        "healthClaims": [
+          "帖子和评论中的训练、营养建议未进行科学性核查。"
+        ]
+      }
+    },
+    {
+      "id": "xiaohongshu:6aeb2a36000000000300bbad",
+      "platform": "xiaohongshu",
+      "platformId": "6aeb2a36000000000300bbad",
+      "title": "女生手臂拜拜肉保姆级计划🏋️",
+      "author": "洺杉野.",
+      "url": "https://www.xiaohongshu.com/explore/6aeb2a36000000000300bbad",
+      "publishedAt": "2026-11-05",
+      "publishedText": "2026-11-05",
+      "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+      "topics": [
+        "健身"
+      ],
+      "contentType": "动作教学",
+      "format": "image_note",
+      "duration": null,
+      "audience": [
+        "希望改善手臂线条的女生"
+      ],
+      "summary": "8页图文以创作者手臂线条作为首图，正文强调手臂训练与可照做的计划。",
+      "metrics": {
+        "likes": {
+          "value": 1145,
+          "display": "1145",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 1040,
+          "display": "1040",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 17,
+          "display": "17",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "健身"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%81%A5%E8%BA%AB",
+        "sort": "最多点赞",
+        "timeWindow": "此前手动采集",
+        "rank": null,
+        "scope": "历史样本导入，非本仓库每日Top50流程采集。"
+      },
+      "frames": [
+        {
+          "id": "frame-1",
+          "path": "assets/2026-11-11-history/xiaohongshu/6aeb2a36000000000300bbad/page-01.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "首屏 · 手臂线条展示",
+          "observed": "健身房镜前展示手臂，标题明确目标部位和人群。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "history-6aeb2a36000000000300bbad-1",
+          "text": "俯身哑铃为什么我没感觉呀！是练手臂哪里",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "动作学习"
+          ]
+        },
+        {
+          "id": "history-6aeb2a36000000000300bbad-2",
+          "text": "求教：没啥运动基础的 哑铃选择重量有推荐么？家里只有 1.5kg 的…",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "器械适配"
+          ]
+        },
+        {
+          "id": "history-6aeb2a36000000000300bbad-3",
+          "text": "姐姐练的重量一般是多少呀",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "器械适配"
+          ]
+        },
+        {
+          "id": "history-6aeb2a36000000000300bbad-4",
+          "text": "收藏！！！",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "其他"
+          ]
+        }
+      ],
+      "commentSampling": {
+        "strategy": "页面初始可见评论中选取的历史原话",
+        "displayedTotal": 17,
+        "captured": 4,
+        "expandedReplies": false,
+        "limitations": [
+          "仅为此前读取的部分可见评论，不代表全部用户意见。",
+          "未完成热评与最新评论的双排序采样。"
+        ]
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "先展示理想线条，再用“保姆级计划”“抄作业”降低学习门槛。",
+        "structure": [],
+        "hypotheses": [
+          {
+            "title": "明确人群和部位",
+            "explanation": "标题直接指向女生与手臂问题，降低判断是否与自己相关的成本。",
+            "evidenceIds": [
+              "title",
+              "frame-1"
+            ],
+            "confidence": "medium",
+            "alternative": "未获曝光、完播与投流数据，不能证明互动由该因素导致。"
+          },
+          {
+            "title": "可执行承诺与收藏行为相吻合",
+            "explanation": "1040收藏接近1145点赞，评论中出现收藏表达，但不能证明实际跟练。",
+            "evidenceIds": [
+              "metrics",
+              "history-6aeb2a36000000000300bbad-4"
+            ],
+            "confidence": "medium",
+            "alternative": "未获曝光、完播与投流数据，不能证明互动由该因素导致。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "动作发力需要解释",
+            "description": "观看者无法判断动作应练哪里、为什么没有感觉。",
+            "commentIds": [
+              "history-6aeb2a36000000000300bbad-1"
+            ],
+            "priority": "P1",
+            "opportunity": "用正侧面示范、发力位置图和常见错误辅助学习。"
+          },
+          {
+            "id": "need-2",
+            "title": "新手不知道选多重",
+            "description": "用户有明确器械和基础限制。",
+            "commentIds": [
+              "history-6aeb2a36000000000300bbad-2",
+              "history-6aeb2a36000000000300bbad-3"
+            ],
+            "priority": "P1",
+            "opportunity": "在计划中给出选重方法、替代动作与渐进调整条件。"
+          }
+        ],
+        "limitations": [
+          "历史样本，未完成标准每日采样。"
+        ],
+        "healthClaims": [
+          "“拜拜肉”标题不应被解释为局部减脂效果已被证实。"
+        ]
+      }
+    },
+    {
+      "id": "xiaohongshu:6aed446f0000000023007233",
+      "platform": "xiaohongshu",
+      "platformId": "6aed446f0000000023007233",
+      "title": "给小基数女生练薄肌的10条建议",
+      "author": "阿勇在干嘛",
+      "url": "https://www.xiaohongshu.com/explore/6aed446f0000000023007233",
+      "publishedAt": "2026-11-08",
+      "publishedText": "2026-11-08",
+      "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+      "topics": [
+        "健身"
+      ],
+      "contentType": "商业推广",
+      "format": "image_note",
+      "duration": null,
+      "audience": [
+        "小基数女生"
+      ],
+      "summary": "11页图文结合身材展示与力量训练建议，正文含一次性内裤品牌推广。",
+      "metrics": {
+        "likes": {
+          "value": 693,
+          "display": "693",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 296,
+          "display": "296",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 21,
+          "display": "21",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "健身"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%81%A5%E8%BA%AB",
+        "sort": "最多点赞",
+        "timeWindow": "此前手动采集",
+        "rank": null,
+        "scope": "历史样本导入，非本仓库每日Top50流程采集。"
+      },
+      "frames": [
+        {
+          "id": "frame-1",
+          "path": "assets/2026-11-11-history/xiaohongshu/6aed446f0000000023007233/page-01.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "首屏 · 薄肌建议",
+          "observed": "镜前身材展示与编号建议并列，完整正文含品牌植入。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "history-6aed446f0000000023007233-1",
+          "text": "168.50公斤已经很瘦很瘦啦",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "其他"
+          ]
+        },
+        {
+          "id": "history-6aed446f0000000023007233-2",
+          "text": "多高多重哇，感觉体脂率很低呢",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "此前页面可见样本",
+          "capturedAt": "2026-11-11T08:45:13.145466+00:00",
+          "tags": [
+            "其他"
+          ]
+        }
+      ],
+      "commentSampling": {
+        "strategy": "页面初始可见评论中选取的历史原话",
+        "displayedTotal": 21,
+        "captured": 2,
+        "expandedReplies": false,
+        "limitations": [
+          "仅为此前读取的部分可见评论，不代表全部用户意见。",
+          "未完成热评与最新评论的双排序采样。"
+        ]
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "小基数女生的细分人群定位，结合身材展示和10条建议。",
+        "structure": [],
+        "hypotheses": [
+          {
+            "title": "身材展示为建议建立吸引力",
+            "explanation": "首图提供直观形象，标题以人群和条目数帮助用户判断相关性。",
+            "evidenceIds": [
+              "title",
+              "frame-1"
+            ],
+            "confidence": "medium",
+            "alternative": "未获曝光、完播与投流数据，不能证明互动由该因素导致。"
+          }
+        ],
+        "needs": [],
+        "limitations": [
+          "历史样本，未完成标准每日采样。",
+          "存在明确品牌植入；未知是否投流，不与自然传播混同。"
+        ],
+        "healthClaims": []
+      }
+    }
+  ],
+  "selectedIds": [
+    "douyin:7704313094515859337",
+    "douyin:7706092597119191409",
+    "xiaohongshu:6aeb144d000000001503e7c5",
+    "xiaohongshu:6aeb2a36000000000300bbad",
+    "xiaohongshu:6aed446f0000000023007233"
+  ],
+  "coverage": [
+    {
+      "platform": "douyin",
+      "keyword": "健身",
+      "sourceUrl": "https://douhot.douyin.com/square/hotspot",
+      "sort": "此前热点榜及详情观察",
+      "timeWindow": "历史采集",
+      "scanned": 2,
+      "stopReason": "导入此前已查看的2条内容，未执行本仓库每日采集。"
+    },
+    {
+      "platform": "xiaohongshu",
+      "keyword": "健身",
+      "sourceUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%81%A5%E8%BA%AB",
+      "sort": "最多点赞",
+      "timeWindow": "一周内",
+      "scanned": 3,
+      "stopReason": "导入此前已查看的3条内容，非完整搜索榜单。"
+    }
+  ],
+  "report": {
+    "summary": "历史样本：可分享的身份共鸣，与值得保存的具体方案。",
+    "findings": [
+      "体测娱乐和中年健身展示具有不同的分享用途，传播动机仍待更多证据。",
+      "小红书教程评论中出现动作发力、选重、训练顺序和练后饮食的具体问题。"
+    ],
+    "opportunities": [
+      "用明确人群和单个问题组织内容，补足教程中缺失的动作细节与适用条件。"
+    ],
+    "limitations": [
+      "5条为此前采集的真实历史样本，不代表完成了今日每平台Top50。",
+      "未获得曝光、完播或投流数据；评论为部分可见原话，未达标准采样数量。"
+    ]
+  }
+}

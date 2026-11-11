@@ -1,0 +1,6119 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-daily-1794397556841",
+  "date": "2026-11-11",
+  "startedAt": "2026-11-11T11:45:56.841Z",
+  "finishedAt": "2026-11-11T12:23:20.285Z",
+  "status": "partial",
+  "track": "daily",
+  "mode": "daily",
+  "config": {
+    "timezone": "Asia/Shanghai",
+    "windowDays": 7,
+    "topPerPlatform": 50,
+    "candidatePerKeyword": 60,
+    "commentsPerItem": 50,
+    "recentCommentsPerItem": 20,
+    "frameCount": 5,
+    "keywords": [
+      "健身",
+      "运动健康",
+      "体态分析",
+      "减脂",
+      "减肥",
+      "增肌",
+      "力量训练",
+      "圆肩驼背"
+    ],
+    "includePromotion": true,
+    "appResearch": {
+      "enabled": true,
+      "windowDays": 30,
+      "postsPerGroup": 10,
+      "mainstreamApps": [
+        "Keep",
+        "薄荷健康",
+        "训记",
+        "练练健身"
+      ],
+      "keywords": [
+        "健身app 推荐",
+        "健身app 吐槽",
+        "健身记录app",
+        "独立开发 健身app",
+        "我做了个健身app",
+        "AI健身app"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "douyin:7705741772765275115",
+      "platform": "douyin",
+      "platformId": "7705741772765275115",
+      "title": "第10集：认真减脂的一天？这我真得好好学习一下了#减脂计划与脂肪死磕到底 #减脂饮食#饮食状态",
+      "author": "把肉加满",
+      "url": "https://www.douyin.com/jingxuan/search/%E5%87%8F%E8%84%82?aid=493fe570-901d-407c-9538-ad80c668b37a&modal_id=7705741772765275115&type=general",
+      "publishedAt": "2026-11-08",
+      "publishedText": "3天前",
+      "capturedAt": "2026-11-11T11:57:27.252Z",
+      "topics": [
+        "减脂减肥",
+        "健身"
+      ],
+      "contentType": "运动娱乐",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 340.241994,
+      "audience": [
+        "减脂内容兴趣人群"
+      ],
+      "summary": "以对照他人减脂日常和自身进食反应构成的饮食娱乐视频。实际抽帧可见手机观看、餐桌进食、米饭蔬菜与面食特写；评论既有希望看更多对照对象的内容偏好，也有食量攀比、暴食焦虑和饮食计划求助，不将其当作已验证的减脂教程。",
+      "metrics": {
+        "likes": {
+          "value": 17000,
+          "display": "1.7万",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 684,
+          "display": "684",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 507,
+          "display": "507",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": 1940,
+          "display": "1940",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "减脂"
+        ],
+        "sourceUrl": "https://www.douyin.com/jingxuan/search/%E5%87%8F%E8%84%82?aid=493fe570-901d-407c-9538-ad80c668b37a&type=general",
+        "sort": "最多点赞；内容形式视频",
+        "timeWindow": "一周内",
+        "rank": 1,
+        "scope": "抖音精选电脑版搜索候选；本次账号关键词“减脂”的一周内视频搜索候选；不是全站榜或完整Top50。"
+      },
+      "frames": [
+        {
+          "id": "frame-0-10",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705741772765275115/frame-0-10.png",
+          "kind": "video_frame",
+          "timestamp": 0.1,
+          "caption": "开头 · 对照减脂日常",
+          "observed": "黄衣人物看手机，画中画出现“139斤吃的不多就是不瘦”等减脂日常文字，主画面以反应式表达引入。"
+        },
+        {
+          "id": "frame-85-00",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705741772765275115/frame-85-00.png",
+          "kind": "video_frame",
+          "timestamp": 85,
+          "caption": "用餐过程 · 人物反应",
+          "observed": "人物坐在餐桌前进食并抬头反应，画面突出表情与吃饭过程，没有据此推断热量或饮食效果。"
+        },
+        {
+          "id": "frame-170-00",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705741772765275115/frame-170-00.png",
+          "kind": "video_frame",
+          "timestamp": 170,
+          "caption": "用餐过程 · 米饭与蔬菜",
+          "observed": "餐桌可见米饭碗和蔬菜，人物继续吃饭；仅为抽样画面，不是完整一日食谱。"
+        },
+        {
+          "id": "frame-255-00",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705741772765275115/frame-255-00.png",
+          "kind": "video_frame",
+          "timestamp": 255,
+          "caption": "对照字幕 · 食物特写",
+          "observed": "人物端着面食，画中画和字幕提及另一位内容对象的肉末，呈现食物与对照反应。"
+        },
+        {
+          "id": "frame-339-00",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705741772765275115/frame-339-00.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "播放器后段定位截图 · 精确帧时间未确认",
+          "observed": "抽帧接近视频时长末尾，仍见用餐及食物对照画面；未据此补写未观察到的结论或口播。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "7705759358705304335",
+          "text": "老师 跟贝贝吃不饱一天 开心一下",
+          "likes": 42,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T11:57:27.250Z",
+          "tags": []
+        },
+        {
+          "id": "7705768333950010127",
+          "text": "比瑶宝狠",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705759358705304335",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.250Z",
+          "tags": []
+        },
+        {
+          "id": "7706504947218776873",
+          "text": "老师什么时候和小野猪猪吃一天，我觉得她是真的能吃",
+          "likes": 45,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T11:57:27.250Z",
+          "tags": []
+        },
+        {
+          "id": "7705768996054647586",
+          "text": "果然白天吃得少晚上容易暴食",
+          "likes": 17,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7706401652589282075",
+          "text": "好羡慕高个子的人，吃这么多还能瘦，我一天要是吃这些就焦虑自责今天又暴食了",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705769420274696970",
+          "text": "主包，能不能跟他吃一期",
+          "likes": 3532,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705773006740407082",
+          "text": "不吃",
+          "likes": 4554,
+          "isAuthor": true,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7706164639033754378",
+          "text": "- 早餐：2水煮蛋 + 100g馒头\n \n- 午餐：3包荞麦面 + 120g去皮鸭腿 + 一小把煮菠菜 + 半个咸鸭蛋 + 120g西红柿\n \n- 晚餐：2包荞麦面 + 120g去皮鸭腿 + 一小把煮菠菜+10g左右南瓜籽\n大佬们帮我看一下我这个饮食计划怎么样，现在吃了一个星期了这个量暂时还能一直掉，目前133斤，每隔三四天我会拉高一次碳水我怕掉的太快了。还有就是钠吃多了对减脂影响大不大",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705790150026445611",
+          "text": "本来想去看看原博主这一天有没有减肥成功，然后发现他没有称重环节",
+          "likes": 3,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705816894046126906",
+          "text": "可是这样都没有轻是为什么，没有喝够水吗还是啥，谁能解释一下",
+          "likes": 9,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705760347933147944",
+          "text": "老师开头就说了吃的不多就是不瘦，你已经完美达成目标了",
+          "likes": 7,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705752170397795121",
+          "text": "依旧是丰富的白天罪恶的晚上",
+          "likes": 10,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7706507436978914058",
+          "text": "投",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706504947218776873",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705770647850599203",
+          "text": "白天多吃点晚上就不会暴食了",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705768996054647586",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7706518748475949874",
+          "text": "代谢问题，和个子高矮有什么关系。有焦虑的功夫怎么不考虑做做运动呢",
+          "likes": 5,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706401652589282075",
+          "publishedText": "23小时前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7706557169693262618",
+          "text": "宁抛去身高谈胖瘦不就是在抛去剂量谈毒性吗？",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706401652589282075",
+          "publishedText": "20小时前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7706561255020610338",
+          "text": "你吃成一头猪代谢也能高点",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706401652589282075",
+          "publishedText": "20小时前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7706567023878603569",
+          "text": "身高跟胖瘦本质上都是代谢问题 又管不住嘴也迈不开腿能减下来不如相信我是秦始皇",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706401652589282075",
+          "publishedText": "20小时前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705773224005223217",
+          "text": "应该是不敢的吧",
+          "likes": 551,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705773853503341346",
+          "text": "原来你也会怕",
+          "likes": 291,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705774605654393650",
+          "text": "这谁不怕",
+          "likes": 49,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705774771699794730",
+          "text": "你只是怕了",
+          "likes": 19,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705774914293023545",
+          "text": "你只是不敢",
+          "likes": 6,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705774955031888694",
+          "text": "你就是怕了！",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705775045557715712",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705775815418594082",
+          "text": "你只是怕了",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705777077761147688",
+          "text": "肯定是怕了+1",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705779111985759013",
+          "text": "抓",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705781007425766180",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705782449620435746",
+          "text": "笑死我了",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705782593102529318",
+          "text": "你就是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705782731950818057",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705784717677249289",
+          "text": "一点苦日子不愿意过啊",
+          "likes": 3,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705784751504704305",
+          "text": "真的主包，包有流量的",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705784943083209514",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705790485042316089",
+          "text": "主包想想你的肌肉正在渴望这么一顿饭",
+          "likes": 6,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705794575088452362",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705795975167640369",
+          "text": "主包怎么懈怠了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705796033237779240",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705799170118992680",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705799275041129274",
+          "text": "挑放纵餐吃不就行了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705800010729784073",
+          "text": "还挑食",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705806685861053210",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705810084924556082",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705811132749136678",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705811205859951419",
+          "text": "你只怕",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705813395148292918",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705815795293455161",
+          "text": "一点苦不想吃？",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705815965465248569",
+          "text": "@啊哈哈哇哦 @gsssy 哈哈哈哈哈哈哈",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705815693392151339",
+          "text": "哈哈哈哈哈哈你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705820191796413243",
+          "text": "你只是怕了。",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705823049829368586",
+          "text": "哈哈哈哈哈",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.251Z",
+          "tags": []
+        },
+        {
+          "id": "7705828100362322725",
+          "text": "@莲叶何田田（羞涩内敛正直真诚善良高冷雅） ",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705828161473446683",
+          "text": "还挑食",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705828350241981242",
+          "text": "克服恐惧的最好方法就是面对恐惧",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705831195137803027",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705854907953627940",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705862363858174754",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705867621711872825",
+          "text": "你就是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        },
+        {
+          "id": "7705873557993554747",
+          "text": "你只是怕了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705769420274696970",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:57:27.252Z",
+          "tags": []
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 507,
+        "captured": 60,
+        "expandedReplies": true,
+        "limitations": [
+          "尚未确认全部可访问评论末尾；本轮数据只是已读部分，不代表全部评论。"
+        ],
+        "readStatus": "partial",
+        "resumeCursor": "7705873557993554747",
+        "stopReason": "低频逐屏读取中；楼中楼仍需继续展开核实"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "用“认真减脂的一天”与人物实际进食和表情反应形成对照，借系列化观看需求引出讨论。",
+        "structure": [
+          {
+            "label": "引入",
+            "description": "手机观看与画中画减脂文字建立对照对象。",
+            "frameIds": [
+              "frame-0-10"
+            ]
+          },
+          {
+            "label": "用餐反应",
+            "description": "人物表情、米饭蔬菜和面食场景推进对照。",
+            "frameIds": [
+              "frame-85-00",
+              "frame-170-00",
+              "frame-255-00"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "反应与食量对照提供娱乐分享话题",
+            "explanation": "画面中有对照式表达，已读评论主动点名希望继续看其他饮食对象；页面分享1940高于收藏684，但没有曝光数据，不能推断分享转化率。",
+            "evidenceIds": [
+              "frame-0-10",
+              "7705759358705304335",
+              "7706504947218776873",
+              "metrics"
+            ],
+            "confidence": "medium",
+            "alternative": "已有系列受众、作者影响力或推荐分发也可能贡献互动，未取得后台数据。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "希望具体饮食安排得到解释",
+            "description": "有评论者列出每日食物与重量，询问饮食计划是否合适及钠摄入与减脂的关系，属于具体求助而非单纯娱乐互动。",
+            "commentIds": [
+              "7706164639033754378"
+            ],
+            "priority": "P1",
+            "opportunity": "整理可复用的饮食记录与提问模板，围绕份量、目标和记录周期制作有可靠依据的解释内容。"
+          },
+          {
+            "id": "need-2",
+            "title": "食量比较带来的焦虑和进度疑问",
+            "description": "用户把他人的食量与自身减脂表现比较，出现焦虑、自责和对体重不下降的疑问；不能将评论当成医学判断。",
+            "commentIds": [
+              "7706401652589282075",
+              "7705816894046126906"
+            ],
+            "priority": "P1",
+            "opportunity": "选题覆盖进度如何记录、如何提出可核验的问题，并避免仅凭一天食量或画面比较效果。"
+          },
+          {
+            "id": "need-3",
+            "title": "希望延续系列中的饮食对照对象",
+            "description": "评论明确点名其他对象，希望继续观看同类反应内容，属于内容偏好。",
+            "commentIds": [
+              "7705759358705304335",
+              "7706504947218776873"
+            ],
+            "priority": "P2",
+            "opportunity": "将系列选题与具体饮食疑问结合，同时区分娱乐呈现和专业饮食建议。"
+          }
+        ],
+        "limitations": [
+          "实际观察5个视频抽帧，未完整转录音频。",
+          "评论尚未确认全部末尾，需求仅依据已读部分。",
+          "点赞和分享为页面可见累计近似值，未获得曝光、完播和投流数据。",
+          "抽帧时间是播放器定位值，未逐帧确认解码呈现时间；后段定位截图不冒充已确认结尾帧。"
+        ],
+        "healthClaims": [
+          "画面与评论涉及食量、体重、暴食和减脂关系，均未作科学性核验，不将高赞视为有效性证明。"
+        ]
+      }
+    },
+    {
+      "id": "douyin:7705042646154452042",
+      "platform": "douyin",
+      "platformId": "7705042646154452042",
+      "title": "肌肉练大纯干货！ 选择比努力重要，这些增肌科学你必须懂！#健身干货 #健身教学 #增肌 #肌肉 #撸铁",
+      "author": "秦阳Finn",
+      "url": "https://www.douyin.com/jingxuan/search/%E5%A2%9E%E8%82%8C?aid=07d620ea-8e9c-47db-8414-668911184b8f&modal_id=7705042646154452042&type=general",
+      "publishedAt": "2026-11-07",
+      "publishedText": "4天前",
+      "capturedAt": "2026-11-11T11:59:50.537Z",
+      "topics": [
+        "增肌",
+        "健身"
+      ],
+      "contentType": "知识科普",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 224.814148,
+      "audience": [
+        "增肌训练兴趣人群"
+      ],
+      "summary": "以增肌干货为题，将体型展示、器械训练和肌肉张力等字幕概念结合。已读评论包含复习意愿和训练量随频次如何调整的具体问题，也有面向创作者外形的情绪互动；调侃式“三个月后回来”不作为效果随访。",
+      "metrics": {
+        "likes": {
+          "value": 3277,
+          "display": "3277",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 712,
+          "display": "712",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 26,
+          "display": "26",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": 291,
+          "display": "291",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "增肌"
+        ],
+        "sourceUrl": "https://www.douyin.com/jingxuan/search/%E5%A2%9E%E8%82%8C?aid=07d620ea-8e9c-47db-8414-668911184b8f&type=general",
+        "sort": "最多点赞；内容形式视频",
+        "timeWindow": "一周内",
+        "rank": 1,
+        "scope": "抖音精选电脑版搜索候选；本次账号关键词增肌的一周内视频搜索候选；不是全站榜或完整Top50。"
+      },
+      "frames": [
+        {
+          "id": "frame-0-10",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705042646154452042/frame-0-10.png",
+          "kind": "video_frame",
+          "timestamp": 0.1,
+          "caption": "开头 · 体型结果展示",
+          "observed": "人物穿浅色训练服展示上半身体型，作为增肌主题的视觉引入。"
+        },
+        {
+          "id": "frame-56-20",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705042646154452042/frame-56-20.png",
+          "kind": "video_frame",
+          "timestamp": 56.20375,
+          "caption": "训练示例",
+          "observed": "人物在器械区举重并抬膝，字幕出现功能性差；不能仅凭单帧判断动作正确性或训练效果。"
+        },
+        {
+          "id": "frame-112-41",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705042646154452042/frame-112-41.png",
+          "kind": "video_frame",
+          "timestamp": 112.4075,
+          "caption": "进度预期字幕",
+          "observed": "人物展示腹部与躯干，字幕出现6至8周后会有围度增长；这是视频中的效果预期主张，未经核验。"
+        },
+        {
+          "id": "frame-168-61",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705042646154452042/frame-168-61.png",
+          "kind": "video_frame",
+          "timestamp": 168.61124999999998,
+          "caption": "训练概念字幕",
+          "observed": "近景展示手臂与训练服，字幕出现肌肉张力；仅确认可见文字，不补写未听到的完整讲解。"
+        },
+        {
+          "id": "frame-224-51",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705042646154452042/frame-224-51.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "末尾定位截图 · 帧时间未确认",
+          "observed": "播放器定位至末尾附近，但未收到新帧呈现回调；保留为页面证据，不把它当作已确认的结尾帧。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "7706081076360037179",
+          "text": "问个问题，如果是三分化，一个部位要练两次，我每一次还需要这么大的组数吗",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T11:59:50.536Z",
+          "tags": []
+        },
+        {
+          "id": "7705058658576941882",
+          "text": "我从3个月以后过来的，没变化，那可以……",
+          "likes": 31,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.536Z",
+          "tags": []
+        },
+        {
+          "id": "7706739358673961762",
+          "text": "三个月回来了，没变化啊",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "9小时前",
+          "capturedAt": "2026-11-11T11:59:50.536Z",
+          "tags": []
+        },
+        {
+          "id": "7705381616184820534",
+          "text": "涨肉七分看天赋，外胚体型在长肉就是慢",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.536Z",
+          "tags": []
+        },
+        {
+          "id": "7705106731505009457",
+          "text": "干货确实多",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705562756699554560",
+          "text": "我感觉你是那个",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705095157461205801",
+          "text": "还有一点",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7706375237231805233",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": [
+            "图片留言已截图查看"
+          ]
+        },
+        {
+          "id": "7705094759979746058",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": [
+            "图片留言已截图查看"
+          ]
+        },
+        {
+          "id": "7705303947921195802",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": [
+            "图片留言已截图查看"
+          ]
+        },
+        {
+          "id": "7705091711689081651",
+          "text": "等我，三个月就",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705076647993836314",
+          "text": "认真看完了，有空再复习一下",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705324290199700262",
+          "text": "老公教我练成更大的胸",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705083166655496979",
+          "text": "没用怎么着？",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705083691382981430",
+          "text": "再大也没脱",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705067744086229787",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": [
+            "图片留言已截图查看"
+          ]
+        },
+        {
+          "id": "7705204155216347958",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": [
+            "图片留言已截图查看"
+          ]
+        },
+        {
+          "id": "7705449349392794422",
+          "text": "lg",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7706196996885398306",
+          "text": "真的吗",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705157918882284298",
+          "text": "我爱你",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705103000788288314",
+          "text": "你咋这帅。",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705095568306242363",
+          "text": "我爸爸",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705065270168060709",
+          "text": "鞋子链接有吗",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705058119324779290",
+          "text": "你说啥？？？？",
+          "likes": 4,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705050321881711401",
+          "text": "来了来了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": []
+        },
+        {
+          "id": "7705433287884489512",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T11:59:50.537Z",
+          "tags": [
+            "图片留言已截图查看"
+          ]
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 26,
+        "captured": 26,
+        "expandedReplies": false,
+        "limitations": [
+          "仅当前账号可访问评论，不含隐藏或删除内容。"
+        ],
+        "readStatus": "all_visible",
+        "resumeCursor": "7705433287884489512",
+        "stopReason": "当前评论区明确显示末尾且无可展开回复"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "标题承诺选择比努力重要的增肌知识，以体型展示和训练场景强化观看动机。",
+        "structure": [
+          {
+            "label": "结果引入",
+            "description": "体型展示建立增肌主题。",
+            "frameIds": [
+              "frame-0-10"
+            ]
+          },
+          {
+            "label": "训练与概念",
+            "description": "器械场景与进度预期、肌肉张力字幕交替出现。",
+            "frameIds": [
+              "frame-56-20",
+              "frame-112-41",
+              "frame-168-61"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "训练信息具有复习与收藏用途",
+            "explanation": "可见收藏712，评论明确表示认真看完、有空复习；不等于已经验证训练内容准确或有效。",
+            "evidenceIds": [
+              "metrics",
+              "7705076647993836314",
+              "frame-168-61"
+            ],
+            "confidence": "medium",
+            "alternative": "创作者既有受众与外形吸引也可能带来互动，无法仅凭抽帧区分贡献。"
+          },
+          {
+            "title": "人物表达与情绪互动共同参与讨论",
+            "explanation": "已读评论既有训练量问题，也有对创作者的情绪化评价和玩笑，不把所有评论当作知识需求。",
+            "evidenceIds": [
+              "7706081076360037179",
+              "7705103000788288314"
+            ],
+            "confidence": "medium",
+            "alternative": "未获得实际观众画像，不推断性别或兴趣占比。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "训练量需要与每周频次一起解释",
+            "description": "评论者具体询问三分化中同一部位每周训练两次时，每次是否仍需同样多的组数。",
+            "commentIds": [
+              "7706081076360037179"
+            ],
+            "priority": "P1",
+            "opportunity": "围绕频次、每次组数和周总量制作可对照的说明，标明适用人群与调整依据，而非只给单次大组数。"
+          }
+        ],
+        "limitations": [
+          "实际观察4个确认呈现的关键帧；末尾定位未收到新帧回调，另存页面截图，不冒充确认结尾帧。",
+          "26条当前可访问评论已到末尾，6条纯图片留言已截图观察，主要是表情、贴纸或视频画面再引用。",
+          "无曝光、完播、投流或训练结果随访数据。"
+        ],
+        "healthClaims": [
+          "视频可见6至8周围度增长等预期表述，未核实其适用条件与科学性，不作为结果保证。"
+        ]
+      }
+    },
+    {
+      "id": "douyin:7704947300992404746",
+      "platform": "douyin",
+      "platformId": "7704947300992404746",
+      "title": "第6集：喜欢侧睡？呼吸不畅？含胸圆肩？快试试这三个动作！ #体态纠正 #胸廓 #健身干货 #体态矫正 #圆肩驼背",
+      "author": "从小就很瘦",
+      "url": "https://www.douyin.com/jingxuan/search/%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C?aid=71f5c799-ce16-45f7-9447-4bbbd1cd1b44&modal_id=7704947300992404746&type=general",
+      "publishedAt": "2026-11-09",
+      "publishedText": "2天前",
+      "capturedAt": "2026-11-11T12:03:56.873Z",
+      "topics": [
+        "体态分析",
+        "运动健康",
+        "健身"
+      ],
+      "contentType": "体态纠正",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 58.698752,
+      "audience": [
+        "关注胸廓与体态自查的人群"
+      ],
+      "summary": "以侧睡、呼吸不畅、含胸圆肩的问题联想引入，提出三个动作。抽帧可确认猫式伸展、半跪位靠墙及换侧次数提示。评论出现症状归因、动作有效性、侧睡是否要避免和日常姿势省时等问题，也有人反对过度体态焦虑；不把相似描述当作诊断证据。",
+      "metrics": {
+        "likes": {
+          "value": 87000,
+          "display": "8.7万",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 67000,
+          "display": "6.7万",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 243,
+          "display": "243",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": 14000,
+          "display": "1.4万",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "圆肩驼背"
+        ],
+        "sourceUrl": "https://www.douyin.com/jingxuan/search/%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C?aid=71f5c799-ce16-45f7-9447-4bbbd1cd1b44&type=general",
+        "sort": "最多点赞；内容形式视频",
+        "timeWindow": "一周内",
+        "rank": 1,
+        "scope": "抖音精选电脑版搜索候选；本次账号关键词圆肩驼背的一周内视频搜索候选；不是全站榜或完整Top50。"
+      },
+      "frames": [
+        {
+          "id": "frame-0-10",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7704947300992404746/frame-0-10.png",
+          "kind": "video_frame",
+          "timestamp": 0.1,
+          "caption": "问题引入 · 侧睡情景",
+          "observed": "画中画以床上侧卧情景配合讲解者反应，字幕“这就是为什么”提出问题，不能据画面判断真实健康状况。"
+        },
+        {
+          "id": "frame-14-63",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7704947300992404746/frame-14-63.png",
+          "kind": "video_frame",
+          "timestamp": 14.6345,
+          "caption": "身体示意与原因陈述",
+          "observed": "人物侧身触肩示意，字幕将问题与胸廓联系；仅记录视频陈述，不认定其因果成立。"
+        },
+        {
+          "id": "frame-29-27",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7704947300992404746/frame-29-27.png",
+          "kind": "video_frame",
+          "timestamp": 29.269,
+          "caption": "动作演示 · 猫式伸展",
+          "observed": "训练垫上四点支撑，字幕明确写双手撑地做猫式伸展；不评价动作是否适合所有观众。"
+        },
+        {
+          "id": "frame-43-90",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7704947300992404746/frame-43-90.png",
+          "kind": "video_frame",
+          "timestamp": 43.903499999999994,
+          "caption": "动作演示 · 半跪位靠墙",
+          "observed": "人物半跪靠墙张开双臂，字幕为最后单腿跪姿靠墙。"
+        },
+        {
+          "id": "frame-52-68",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7704947300992404746/frame-52-68.png",
+          "kind": "video_frame",
+          "timestamp": 52.6842,
+          "caption": "次数提示与换侧",
+          "observed": "同一靠墙姿势配字幕做完15次再换另一边；这是作者给出的操作提示，非本报告的训练处方。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "7706364327016203034",
+          "text": "真有用吗",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.872Z",
+          "tags": []
+        },
+        {
+          "id": "7706376223764546346",
+          "text": "那已经颧骨外扩了做这个能回到原来的样子吗",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.872Z",
+          "tags": []
+        },
+        {
+          "id": "7706186618792903478",
+          "text": "一模一样的症状 我还以为是我的心脏有问题",
+          "likes": 933,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.872Z",
+          "tags": []
+        },
+        {
+          "id": "7706846859976917801",
+          "text": "只要不是体态特别严重的，我建议都别做",
+          "likes": 30,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2小时前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706333488744137509",
+          "text": "先天的胸廓畸形怎么办？成年了估计矫正不了了，我天天感觉自己要猝死",
+          "likes": 37,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706374186272703272",
+          "text": "吊单杠也行，我之前也是呼吸短，不畅，吊几天单杠就恢复了不少",
+          "likes": 7,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706502141423141681",
+          "text": "侧睡是需要杜绝还是要找对姿势？是完全不可以侧睡嘛",
+          "likes": 6,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706235043525608251",
+          "text": "有没有不费时的，比如用什么睡觉姿势，坐姿",
+          "likes": 8,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706444825638175525",
+          "text": "我有事情一扩胸胸口就响是什么情况，感觉上里边的两块骨头撑开了",
+          "likes": 26,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706711543166534427",
+          "text": "广播体操：扩胸运动，伸展运动，就行。",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706364327016203034",
+          "publishedText": "11小时前",
+          "capturedAt": "2026-11-11T12:03:56.872Z",
+          "tags": []
+        },
+        {
+          "id": "7706196167667090218",
+          "text": "我小时候就这样，平躺呼吸不了",
+          "likes": 73,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706186618792903478",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706419703375807241",
+          "text": "买张软一点的席梦思就好了",
+          "likes": 7,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706186618792903478",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706472609340998415",
+          "text": "真的假的",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706186618792903478",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706473056496124730",
+          "text": "真的，有缓冲，不会过度压迫胸腔",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706186618792903478",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706480609301021455",
+          "text": "真不真不知道睡着是真的爽",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706186618792903478",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706591644862825226",
+          "text": "爽了就对了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706186618792903478",
+          "publishedText": "18小时前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706851083427103488",
+          "text": "我也是，但是我是有心脏病，我当时还以为是我又复发了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706186618792903478",
+          "publishedText": "2小时前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706868755611665209",
+          "text": "可惜我就是特别严重的",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706846859976917801",
+          "publishedText": "56分钟前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706870004058604307",
+          "text": "哪个位置",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706846859976917801",
+          "publishedText": "52分钟前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706846902847636265",
+          "text": "直接得上医院了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706846859976917801",
+          "publishedText": "2小时前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706860473246270223",
+          "text": "做完会变严重吗",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706846859976917801",
+          "publishedText": "1小时前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706866891080794934",
+          "text": "我意思是说不要对这东西有很多焦虑刷了几个视频都感觉这身上一堆毛病只要不是非常严重的都不用管要是真的非常严重啊，你看这些也没用，直接得上医院",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706846859976917801",
+          "publishedText": "1小时前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706867238851576617",
+          "text": "而且正常的久坐低头这些你去健身房随便拉一下不到一个月基本都全部好，人体本身就是不协调不完全一样的",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706846859976917801",
+          "publishedText": "1小时前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706383131854668601",
+          "text": "同",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706333488744137509",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        },
+        {
+          "id": "7706354948787110710",
+          "text": "漏斗胸吗",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7706333488744137509",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:03:56.873Z",
+          "tags": []
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 243,
+        "captured": 25,
+        "expandedReplies": true,
+        "limitations": [
+          "尚未确认全部可访问评论末尾；本轮数据只是已读部分，不代表全部评论。"
+        ],
+        "readStatus": "partial",
+        "resumeCursor": "7706354948787110710",
+        "stopReason": "低频逐屏读取中；楼中楼仍需继续展开核实"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "将常见睡姿和身体感受与体态问题关联，用三个可照做的动作降低观看与保存门槛。",
+        "structure": [
+          {
+            "label": "问题与归因",
+            "description": "侧睡情景和胸廓示意建立问题联想；因果未经核验。",
+            "frameIds": [
+              "frame-0-10",
+              "frame-14-63"
+            ]
+          },
+          {
+            "label": "动作和操作提示",
+            "description": "动作示范配短字幕，给出次数与换侧提示。",
+            "frameIds": [
+              "frame-29-27",
+              "frame-43-90",
+              "frame-52-68"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "短动作清单具有保存与跟做用途",
+            "explanation": "58秒视频包含动作示范和换侧次数提示，可见收藏6.7万；收藏是累计计数，不能当作效果或转化率。",
+            "evidenceIds": [
+              "frame-29-27",
+              "frame-52-68",
+              "metrics"
+            ],
+            "confidence": "medium",
+            "alternative": "作者既有受众、推荐分发和身体症状引起的担忧也可能影响互动。"
+          },
+          {
+            "title": "常见行为与不适的关联引出自查讨论和争议",
+            "explanation": "评论既有人描述相似感受、询问有效性，也有人反对刷视频后过度焦虑，不将同病感视作动作适用证据。",
+            "evidenceIds": [
+              "7706186618792903478",
+              "7706364327016203034",
+              "7706866891080794934"
+            ],
+            "confidence": "medium",
+            "alternative": "评论仅为已读部分，不能代表实际观众状况或专业共识。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "说清动作的适用情况与判断边界",
+            "description": "用户询问是否有效，也有不同身体状况的人对号入座。需求是准确理解适用情景，不是把身体感受直接归因为体态。",
+            "commentIds": [
+              "7706364327016203034",
+              "7706846859976917801",
+              "7706333488744137509"
+            ],
+            "priority": "P1",
+            "opportunity": "内容先清楚说明适用条件和局限，区分一般动作学习、体态自查与需要专业评估的问题。"
+          },
+          {
+            "id": "need-2",
+            "title": "避免把侧睡等日常行为表述成全面禁止",
+            "description": "评论者明确追问是完全不能侧睡，还是需要找到适合自己的姿势，说明标题与解释之间存在理解歧义。",
+            "commentIds": [
+              "7706502141423141681"
+            ],
+            "priority": "P1",
+            "opportunity": "对日常行为给出清楚的情境说明，减少标题造成的过度概括。"
+          },
+          {
+            "id": "need-3",
+            "title": "希望把日常姿势与时间成本一起考虑",
+            "description": "有人希望通过睡姿、坐姿等省时方式处理日常困扰，而不仅是再增加一套动作。",
+            "commentIds": [
+              "7706235043525608251"
+            ],
+            "priority": "P2",
+            "opportunity": "围绕日常情景和可执行的观察记录做选题，避免许诺某个睡姿或动作可以解决所有问题。"
+          }
+        ],
+        "limitations": [
+          "实际观察5个关键帧，没有完整语音转录，也未逐项核实三个动作的完整顺序。",
+          "已读25条评论，尚未到243条标称评论的可访问末尾。",
+          "身体感受相似、收藏多或点赞高都不证明健康主张成立。"
+        ],
+        "healthClaims": [
+          "标题及字幕把睡姿、胸廓、圆肩和呼吸感受联系起来，并提出纠正动作；因果、适用人群和效果均待专业核验。",
+          "评论含胸部不适、疾病史和自行改善建议，未作健康结论，不将它们当作诊断、治疗或训练处方。"
+        ]
+      }
+    },
+    {
+      "id": "douyin:7705324791686864817",
+      "platform": "douyin",
+      "platformId": "7705324791686864817",
+      "title": "保护心脏最好的方式，你学会了吗？#保护心脏 #居家锻炼 #运动康复训练",
+      "author": "运动康养小黄",
+      "url": "https://www.douyin.com/jingxuan/search/%E8%BF%90%E5%8A%A8%E5%81%A5%E5%BA%B7?aid=6a1dc598-3aa2-4383-806d-5f73cd18842f&modal_id=7705324791686864817&type=general",
+      "publishedAt": "2026-11-07",
+      "publishedText": "4天前",
+      "capturedAt": "2026-11-11T12:06:13.480Z",
+      "topics": [
+        "运动健康",
+        "健身"
+      ],
+      "contentType": "动作教学",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 37.359501,
+      "audience": [
+        "居家轻运动内容兴趣人群"
+      ],
+      "summary": "以保护心脏为标题，用医护风格着装展示手腕和手指动作，结尾明确要求留言谢谢。已读63条评论大多为感谢、表情或步骤复述，没有据此提取具体需求；点赞、收藏与感谢留言不证明健康收益或作者资质。",
+      "metrics": {
+        "likes": {
+          "value": 62000,
+          "display": "6.2万",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 44000,
+          "display": "4.4万",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 12000,
+          "display": "1.2万",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": 22000,
+          "display": "2.2万",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "运动健康"
+        ],
+        "sourceUrl": "https://www.douyin.com/jingxuan/search/%E8%BF%90%E5%8A%A8%E5%81%A5%E5%BA%B7?aid=6a1dc598-3aa2-4383-806d-5f73cd18842f&type=general",
+        "sort": "最多点赞；内容形式视频",
+        "timeWindow": "一周内",
+        "rank": 1,
+        "scope": "抖音精选电脑版搜索候选；本次账号关键词运动健康的一周内视频搜索候选；不是全站榜或完整Top50。"
+      },
+      "frames": [
+        {
+          "id": "frame-0-10",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705324791686864817/frame-0-10.png",
+          "kind": "video_frame",
+          "timestamp": 0.1,
+          "caption": "开头 · 人物与健康主题",
+          "observed": "人物穿绿色医护风格服装面对镜头；着装不等于医生身份或资质核验。"
+        },
+        {
+          "id": "frame-9-32",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705324791686864817/frame-9-32.png",
+          "kind": "video_frame",
+          "timestamp": 9.31675,
+          "caption": "动作演示 · 手腕",
+          "observed": "人物双臂向前，双手下垂示意手腕活动，场景简单、无器械。"
+        },
+        {
+          "id": "frame-18-63",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705324791686864817/frame-18-63.png",
+          "kind": "video_frame",
+          "timestamp": 18.6335,
+          "caption": "动作演示 · 手指",
+          "observed": "人物双手前伸作抓握动作；仅记录可见动作，不认定其健康效果。"
+        },
+        {
+          "id": "frame-27-95",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705324791686864817/frame-27-95.png",
+          "kind": "video_frame",
+          "timestamp": 27.950250000000004,
+          "caption": "步骤字幕 · 五指弹",
+          "observed": "字幕明确写第四个动作五指弹，人物展示张开手指。"
+        },
+        {
+          "id": "frame-33-54",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705324791686864817/frame-33-54.png",
+          "kind": "video_frame",
+          "timestamp": 33.5403,
+          "caption": "结尾 · 留言指令",
+          "observed": "字幕明确要求评论区留下一句谢谢，为大量感谢留言提供直接内容依据。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "7705772079904523035",
+          "text": "謝谢我们的好医生",
+          "likes": 327,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706867092402258737",
+          "text": "谢谢好医生一起健康",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1小时前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706867131279852337",
+          "text": "謝谢我们的好医生",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1小时前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706883624327086897",
+          "text": "谢谢你好医生",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1分钟前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706181628539962163",
+          "text": "保护心脏，最好的方式是锻炼手指和手腕，4个动作：\n①金刚绕腕，每天36下\n②五指，每天36下\n③握拇指抓，每天36下\n④五指弹，每天36下",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7705837150492082993",
+          "text": "金刚绕腕每天36下。第二个动作，五指抓。每天三十六下。  第三个动作，大拇指握抓，每天36下。第四个动作，五指弹，每天36下。",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706846694340018993",
+          "text": "谢谢好医生",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2小时前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7705778106124419898",
+          "text": "谢谢我们的好医生",
+          "likes": 211,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7705560367465186107",
+          "text": "谢谢医生，我记住了，好人一生平安",
+          "likes": 12,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706882711562650411",
+          "text": "谢谢帅哥医生的分享",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4分钟前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706868149274395441",
+          "text": "塮",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706858480150545201",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706856668723184420",
+          "text": "谢谢",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706851881314812723",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "2小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706842984818017073",
+          "text": "",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "2小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706834480758178587",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "3小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706826787334079291",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "3小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706823020979045178",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "3小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706818336776995611",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "4小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706808691021923087",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "4小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706803675692794660",
+          "text": "9@@@@@@",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "5小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706794720370295589",
+          "text": "谢谢好医生 我坚持锻炼 ",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "5小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706788761325552441",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "6小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706772118839952186",
+          "text": "谢谢",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "7小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706757747157599003",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "8小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706754217063629605",
+          "text": "！！",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "8小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706753672676655923",
+          "text": "谢谢",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "8小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706751441764369190",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "8小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706741615561786170",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "9小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706728373909668645",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "10小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706731596586124066",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "9小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706730130606064418",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "9小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706716779524047666",
+          "text": "谢谢",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "10小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706715138627322659",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "10小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706714208348685093",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "10小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706689099130880803",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "12小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706526200499782440",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "23小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706525007720383290",
+          "text": "@英姿: 谢谢郝医生",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "23小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706518295415587626",
+          "text": "谢谢。",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "23小时前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706512580555277096",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706504480275514169",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706496803998614309",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706486872171791142",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706473913098421035",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706471666255692594",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706470718246634266",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706470228280394559",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706461086669226801",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706460694405530395",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706457143079437105",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706450690575188786",
+          "text": "江苏",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706436088441406248",
+          "text": "谢谢",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706395464602895162",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706394758340100923",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706377512204731163",
+          "text": "謝谢谢你们啦",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706364574459151141",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706294026017751867",
+          "text": "谢谢医生",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.479Z",
+          "tags": []
+        },
+        {
+          "id": "7706189898759963429",
+          "text": "谢谢",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706189541695456049",
+          "text": "谢谢医生",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706182051611476736",
+          "text": "谢谢",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706175927763534634",
+          "text": "谢谢",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706175114195075877",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        },
+        {
+          "id": "7706173801508012840",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705772079904523035",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:06:13.480Z",
+          "tags": []
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 12000,
+        "captured": 63,
+        "expandedReplies": true,
+        "limitations": [
+          "尚未确认全部可访问评论末尾；本轮数据只是已读部分，不代表全部评论。"
+        ],
+        "readStatus": "partial",
+        "resumeCursor": "7706173801508012840",
+        "stopReason": "低频逐屏读取中；楼中楼仍需继续展开核实"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "用强健康收益标题、医护风格人物和无器械手部动作降低理解与参与成本，结尾给出具体留言任务。",
+        "structure": [
+          {
+            "label": "健康利益与人物引入",
+            "description": "标题提出保护心脏的利益主张，人物面向镜头。",
+            "frameIds": [
+              "frame-0-10"
+            ]
+          },
+          {
+            "label": "分步手部动作",
+            "description": "手腕、抓握与五指弹等步骤示范。",
+            "frameIds": [
+              "frame-9-32",
+              "frame-18-63",
+              "frame-27-95"
+            ]
+          },
+          {
+            "label": "互动任务",
+            "description": "明确要求评论区留下一句谢谢。",
+            "frameIds": [
+              "frame-33-54"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "留言任务对评论构成有直接影响",
+            "explanation": "结尾字幕要求留言谢谢，已读评论中大量出现相同感谢与表情。这说明评论构成与内容指令吻合，不代表已证明算法因果或用户健康效果。",
+            "evidenceIds": [
+              "frame-33-54",
+              "7705772079904523035",
+              "7705778106124419898"
+            ],
+            "confidence": "high",
+            "alternative": "用户也可能出于真实感谢留言，无法根据样本区分自发与指令驱动的比例。"
+          },
+          {
+            "title": "低门槛动作与强收益标题可能增加保存意愿",
+            "explanation": "画面中动作无需器械，可见收藏4.4万和分享2.2万，但未得到实际执行、曝光或效果数据。",
+            "evidenceIds": [
+              "frame-9-32",
+              "frame-27-95",
+              "title",
+              "metrics"
+            ],
+            "confidence": "medium",
+            "alternative": "作者受众、分发渠道与权威感也可能影响互动。"
+          }
+        ],
+        "needs": [],
+        "limitations": [
+          "实际观察5个确认呈现的关键帧，未完整转录音频。",
+          "仅已读63条，页面标称评论约1.2万，评论区未读完，继续保留断点。",
+          "纯表情图片未全部逐张解读，不从它们推断功能需求。",
+          "没有核验作者执业身份或动作的心血管收益。"
+        ],
+        "healthClaims": [
+          "标题声称某些手指手腕动作是保护心脏的最好方式，此效果与最优性主张未核验。",
+          "评论称作者为医生，不作为真实资质证据；感谢、步骤复述与高互动不作为医学有效性证明。"
+        ]
+      }
+    },
+    {
+      "id": "douyin:7705309837030717091",
+      "platform": "douyin",
+      "platformId": "7705309837030717091",
+      "title": "我都想住健身房li #健身房",
+      "author": "崔吹吹（鸭腿仙人）",
+      "url": "https://www.douyin.com/jingxuan/search/%E5%81%A5%E8%BA%AB?aid=c7530553-aaa5-4456-a695-01e6bdb44e9f&modal_id=7705309837030717091&type=general",
+      "publishedAt": "2026-11-07",
+      "publishedText": "4天前",
+      "capturedAt": "2026-11-11T12:08:17.050Z",
+      "topics": [
+        "健身"
+      ],
+      "contentType": "测评推荐",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 102.666666,
+      "audience": [
+        "关注线下健身房体验的人群"
+      ],
+      "summary": "以现场自拍介绍健身房便利设施。可见咖啡、热水隔间等字幕，评论围绕费用、分店配置、免费香蕉与位置展开。分享约5.8万，已读留言有朋友提及及门店比较，属于场所体验和消费决策内容。",
+      "metrics": {
+        "likes": {
+          "value": 80000,
+          "display": "8.0万",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 3318,
+          "display": "3318",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 3037,
+          "display": "3037",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": 58000,
+          "display": "5.8万",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "健身"
+        ],
+        "sourceUrl": "https://www.douyin.com/jingxuan/search/%E5%81%A5%E8%BA%AB?aid=c7530553-aaa5-4456-a695-01e6bdb44e9f&type=general",
+        "sort": "最多点赞；内容形式视频",
+        "timeWindow": "一周内",
+        "rank": 1,
+        "scope": "抖音精选电脑版搜索候选；本账号关键词健身的一周内视频候选，不是全站完整Top50。"
+      },
+      "frames": [
+        {
+          "id": "frame-0-10",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705309837030717091/frame-0-10.png",
+          "kind": "video_frame",
+          "timestamp": 0.1,
+          "caption": "开头·现场自拍",
+          "observed": "自拍近景进入健身房，人物面向镜头介绍；未据此判断是否商业合作。"
+        },
+        {
+          "id": "frame-25-66",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705309837030717091/frame-25-66.png",
+          "kind": "video_frame",
+          "timestamp": 25.6635,
+          "caption": "设施介绍·咖啡",
+          "observed": "自拍口播，字幕出现我们这咖啡；画面不证明所有分店均有相同服务。"
+        },
+        {
+          "id": "frame-51-33",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705309837030717091/frame-51-33.png",
+          "kind": "video_frame",
+          "timestamp": 51.327,
+          "caption": "现场空间",
+          "observed": "镜头转向室内黄色设备及绿植，人物以手指示意；单帧未能核实设备用途。"
+        },
+        {
+          "id": "frame-76-99",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705309837030717091/frame-76-99.png",
+          "kind": "video_frame",
+          "timestamp": 76.9905,
+          "caption": "设施介绍·热水隔间",
+          "observed": "自拍口播，字幕写有热水有隔间，讨论场所设施。"
+        },
+        {
+          "id": "frame-92-39",
+          "path": "assets/2026-11-11-daily-1794397556841/douyin/7705309837030717091/frame-92-39.png",
+          "kind": "video_frame",
+          "timestamp": 92.3886,
+          "caption": "现场体验细节",
+          "observed": "镜头快速转动，字幕写保洁阿姨应该还没有拿过去，涉及场所日常体验。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "7705683811417293603",
+          "text": "地标洛阳金属狗，只有一家pro店",
+          "likes": 442,
+          "isAuthor": true,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.046Z",
+          "tags": []
+        },
+        {
+          "id": "7705459950713438995",
+          "text": "可是我365块一年啊",
+          "likes": 666,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705603540810892069",
+          "text": "AED是最关键的配置",
+          "likes": 44,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705379292464562981",
+          "text": "嗯我找的酒店健身房一年99",
+          "likes": 640,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706859550477648649",
+          "text": "太牛了，我这118一个月没有这种",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1小时前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705450168795857701",
+          "text": "前面微波炉，血压计，咖啡，制冰机啥的我都不在乎，但免费的香蕉我是真的心动了。。。",
+          "likes": 2192,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705813067834295080",
+          "text": "看到免费的香蕉直接给我大脑干充血了",
+          "likes": 6691,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705417139961054003",
+          "text": "你这是哪里的？我这金属狗没有",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706160307219170105",
+          "text": "今天在拉伸区域，边拉伸边看比赛",
+          "likes": 1623,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.050Z",
+          "tags": []
+        },
+        {
+          "id": "7705434435790078754",
+          "text": "我家附近的24小时都被我去遍了……在这家办了年卡真心不错",
+          "likes": 697,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.050Z",
+          "tags": []
+        },
+        {
+          "id": "7706523317469791034",
+          "text": "金属狗是便宜，上次我团购买到60多一个月",
+          "likes": 18,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "23小时前",
+          "capturedAt": "2026-11-11T12:08:17.046Z",
+          "tags": []
+        },
+        {
+          "id": "7706592690607850266",
+          "text": "我去，这么便宜吗？我这边我是140多一个月。",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "18小时前",
+          "capturedAt": "2026-11-11T12:08:17.047Z",
+          "tags": []
+        },
+        {
+          "id": "7706598949318558501",
+          "text": "我这540",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "18小时前",
+          "capturedAt": "2026-11-11T12:08:17.047Z",
+          "tags": []
+        },
+        {
+          "id": "7706724196382835507",
+          "text": "@Evan Jin  我的金属狗为什么不是这样",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "10小时前",
+          "capturedAt": "2026-11-11T12:08:17.047Z",
+          "tags": []
+        },
+        {
+          "id": "7706724147955729178",
+          "text": "@时针 我的金属狗为什么不是这样",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "10小时前",
+          "capturedAt": "2026-11-11T12:08:17.047Z",
+          "tags": []
+        },
+        {
+          "id": "7706525770319332133",
+          "text": "@李大树 @2022 @我有一把秋刀鱼 @常因吃太多被夸",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "23小时前",
+          "capturedAt": "2026-11-11T12:08:17.047Z",
+          "tags": []
+        },
+        {
+          "id": "7706518727215825674",
+          "text": "",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "23小时前",
+          "capturedAt": "2026-11-11T12:08:17.047Z",
+          "tags": []
+        },
+        {
+          "id": "7706504563369526031",
+          "text": "下个月回洛阳高低去看看",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706464748041241393",
+          "text": "吃瓜吃到家门口",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706346730744333093",
+          "text": "新乡咋没有",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7705798985115026214",
+          "text": "我去！梦中情店啊可惜在西工，洛龙区啥时候开一个？",
+          "likes": 4,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7705808122720666426",
+          "text": "就是就是",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706136285288104761",
+          "text": "拿铁健身了解一下",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706139110582649609",
+          "text": "了解过了，也很好，但是这个更人性化",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706143743347819307",
+          "text": "这是新都汇那个吗",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706147920739943206",
+          "text": "是的 洛阳就这一个好像",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706192989601530682",
+          "text": "王府井店也全面升级，单间洗澡，免费水果，纸杯，制冰机，咖啡免费喝，工作人员管收片，血压仪，体测仪免费用最关键还是24小时哦！",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7705837811592741690",
+          "text": "@薯条派派卷 要新开的",
+          "likes": 3,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7705808460214010661",
+          "text": "@Kiwi 介不新都汇对面",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7705857839025357606",
+          "text": "@麦芽糖",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706010927624667931",
+          "text": "我同事去了 说可高端 但是人多",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706724989747823411",
+          "text": "2",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "10小时前",
+          "capturedAt": "2026-11-11T12:08:17.048Z",
+          "tags": []
+        },
+        {
+          "id": "7706510531573744443",
+          "text": "@睡个好觉o",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706457179489960763",
+          "text": "@蛋饼包子 到家门口了我靠",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706456537208849186",
+          "text": "@精分不拧巴",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706414998189818665",
+          "text": "@迪迪. @哈妞儿酱",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705901479912293155",
+          "text": "@下雪",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705843500286575397",
+          "text": "@爱玩游戏的叶子",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705819842196833082",
+          "text": "@异世界的男主 ",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705814801549656875",
+          "text": "@XiaoYu",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705801796882547475",
+          "text": "@0.1°",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705683811417293603",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705669514163241763",
+          "text": "暴汗牛么",
+          "likes": 70,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705671633683596089",
+          "text": "我在南京兄弟",
+          "likes": 20,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705686296410030905",
+          "text": "哪个区",
+          "likes": 7,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705731878263325499",
+          "text": "南京哪",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "3天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705825502891836187",
+          "text": "南京根本没有这样的健身房",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706006836336001828",
+          "text": "卧槽哪里？？？",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706781625338495801",
+          "text": "在泰州2480块2年",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "6小时前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706483835067810579",
+          "text": "我285一年",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706461241967395635",
+          "text": "365一年真便宜",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7706441338237403947",
+          "text": "我这也是，还刚扩建了",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "1天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705827336055718697",
+          "text": "在哪里？",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705827473326539557",
+          "text": "南京 桥北",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        },
+        {
+          "id": "7705963749392237361",
+          "text": "桥北哪里啊我就在桥北",
+          "likes": 0,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "7705459950713438995",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:08:17.049Z",
+          "tags": []
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 3037,
+        "captured": 54,
+        "expandedReplies": true,
+        "limitations": [
+          "尚未确认全部可访问评论末尾；本轮数据只是已读部分，不代表全部评论。"
+        ],
+        "readStatus": "partial",
+        "resumeCursor": "7705963749392237361",
+        "stopReason": "低频逐屏读取中；楼中楼仍需继续展开核实"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "用我都想住健身房的夸张体验标题，接连列举贴近日常的设施和福利。",
+        "structure": [
+          {
+            "label": "现场体验",
+            "description": "自拍串联咖啡、场地与热水隔间等设施，评论继续比较门店权益。",
+            "frameIds": [
+              "frame-0-10",
+              "frame-25-66",
+              "frame-51-33",
+              "frame-76-99",
+              "frame-92-39"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "具体便利设施提供了转发与门店比较话题",
+            "explanation": "页面分享5.8万，评论明确提到免费香蕉心动，也有人询问位置及比较同品牌配置；没有曝光或成交数据，不能推断转化。",
+            "evidenceIds": [
+              "metrics",
+              "7705450168795857701",
+              "7705417139961054003"
+            ],
+            "confidence": "medium",
+            "alternative": "作者既有受众、本地分发或商业合作也可能影响互动，未核验合作关系。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "同品牌门店设施与权益应明确区分",
+            "description": "用户发现自己的同品牌门店没有视频所述服务，并询问具体地点。",
+            "commentIds": [
+              "7705417139961054003"
+            ],
+            "priority": "P1",
+            "opportunity": "场所体验内容标明具体门店、拍摄时间和可核验设施，避免用单店代表所有门店。"
+          },
+          {
+            "id": "need-2",
+            "title": "价格需要与具体服务一起比较",
+            "description": "多位评论者报出不同办卡费用，反映消费比较需求；留言价格不是有效报价。",
+            "commentIds": [
+              "7705459950713438995",
+              "7706859550477648649"
+            ],
+            "priority": "P2",
+            "opportunity": "制作带时间与门店条件的价格、营业时间、器械和附加设施比较清单。"
+          },
+          {
+            "id": "need-3",
+            "title": "训练外的便利设施影响体验选择",
+            "description": "有评论者明确说免费香蕉使其心动，也有人关注AED配置。",
+            "commentIds": [
+              "7705603540810892069",
+              "7705450168795857701"
+            ],
+            "priority": "P2",
+            "opportunity": "场所评测同时记录饮水、简餐、淋浴与应急设施等实际可见信息，勿仅比较器械。"
+          }
+        ],
+        "limitations": [
+          "5个关键帧已实际查看，未完整转录口播。",
+          "已读54条，页面标称3037条，尚未确认全部评论末尾，保留续读断点。",
+          "门店服务与评论报价均未线下核实；未判断是否商业合作。",
+          "部分留言是门店推广、表情或朋友提及，不计为独立需求。"
+        ],
+        "healthClaims": []
+      }
+    },
+    {
+      "id": "xiaohongshu:6aedb56f000000002303e263",
+      "platform": "xiaohongshu",
+      "platformId": "6aedb56f000000002303e263",
+      "title": "体重100～130的女生执行完，起码掉10～15",
+      "author": "小李不吃🐷",
+      "url": "https://www.xiaohongshu.com/explore/6aedb56f000000002303e263?xsec_token=ABV7p8kr7kIUbrNX-xcUHdNeWMnXhDkUxMNy6KYoSvsfI=&xsec_source=pc_feed",
+      "publishedAt": "2026-11-06",
+      "publishedText": "5天前 湖南",
+      "capturedAt": "2026-11-11T12:14:07.885Z",
+      "topics": [
+        "减脂减肥",
+        "健身"
+      ],
+      "contentType": "知识科普",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 135.9,
+      "audience": [
+        "减脂计划兴趣人群"
+      ],
+      "summary": "以明确体重范围与减重幅度承诺引入口播减脂计划。评论的具体困惑集中在体重与围度进展不一致、食物份量表述、生活活动量，以及BMI能否代表体型。AI自动回复和其他用户给出的饮食处方不作已验证建议。",
+      "metrics": {
+        "likes": {
+          "value": 3317,
+          "display": "3317",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 2744,
+          "display": "2744",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 357,
+          "display": "357",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "减脂"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%2587%258F%25E8%2584%2582&source=web_explore_feed",
+        "sort": "最多点赞",
+        "timeWindow": "一周内",
+        "rank": 2,
+        "scope": "当前账号小红书减脂关键词一周内搜索候选；跳过首条无标题候选，未完成全平台Top50。"
+      },
+      "frames": [
+        {
+          "id": "page-01",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aedb56f000000002303e263/page-01.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "帖子页面与评论",
+          "observed": "页面记录标题、发布日、互动量及用户对计划执行的讨论。"
+        },
+        {
+          "id": "frame-67-95",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aedb56f000000002303e263/frame-67-95.png",
+          "kind": "video_frame",
+          "timestamp": 67.95,
+          "caption": "口播画面",
+          "observed": "白衣人物正面口播，字幕写这个饮食既能稳定食欲；这是视频表述，未核验饮食效果。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "comment-6aee619d000000001301458a",
+          "text": "我就是按你说的做的，几个月没下来。我高161，重98 ，每天吃1000～1250大卡，隔天一次力量训练60分钟，不力歇，每晚10:30睡，一直维持没变，碳水一吃到120-130之间就身体锁水，崩溃死了，都是在家做着吃饭的，一次都不敢放纵",
+          "likes": 24,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee62430000000012032b58",
+          "text": "而且98 应该是练薄肌而不是减体重",
+          "likes": 35,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前四川",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af1655700000000130097ec",
+          "text": "请问博主怎么补充镁？",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前安徽",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af1714a00000000130192f1",
+          "text": "买补剂啊",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6af1655700000000130097ec",
+          "publishedText": "2天前阿联酋",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee712a0000000012026351",
+          "text": "蛋白质这么少根本没法吃，海边的我们每顿都有不同海鲜",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前浙江",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee7615000000001300a319",
+          "text": "哈哈哈哈哈潮汕的也一样难，顿顿海鲜",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee712a0000000012026351",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee607a000000001300c5af",
+          "text": "一拳头粗粮、一个鸡蛋、一杯牛奶；两拳头米饭、半拳头瘦肉、一个半或两拳头蔬菜；一拳头粗粮、半拳头瘦肉、一个半或两拳头蔬菜。睡够7、8小时，睡前补镁；运动8000-10000步",
+          "likes": 28,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前四川",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee62a300000000020291d7",
+          "text": "谢谢课代表",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee607a000000001300c5af",
+          "publishedText": "4天前四川",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af131e80000000014000339",
+          "text": "身高163，体重52.5kg，不运动，躺着不动型。请结合视频内容给我提出建议@点点",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前浙江",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af131f8000000000a022bd8",
+          "text": "你的 BMI 约 19.8 ，属于正常范围（18.5～24.9），完全在这套计划适用的\"体重 100～130 斤、BMI 23 以下\"区间内，可以直接参考执行。\n52.5kg 换算过来是 105 斤，刚好落在适用范围内。结合视频内容，给你一份适合\"躺着不动型\"新手的执行建议：\n饮食：中高碳水、低蛋白、中等脂肪\n主食一天 4 个拳头 （约 500g 熟重），粗细搭配——糙米、黑米、燕麦、红薯、玉米、馒头都行。\n早餐：1 拳头粗粮 + 鸡蛋 + 豆浆/牛奶\n中餐：2 拳头米饭 + 60～80g 瘦肉（约半个拳头）+ 1.5～2 拳头蔬菜\n晚餐：1 拳头粗粮 + 瘦肉 + 蔬菜\n菜肉正常小炒就行，不用专门做减脂餐，食堂太油过下水即可。这个量吃饱了不难受，也不容易暴食。\n睡眠：比运动更重要\n博主说这部分做不好效率直接低一倍—— 11 点前睡、睡够 8 小时 ，每天晒太阳 30 分钟，睡前补 200～300mg 镁。对你这种不运动型来说，睡眠调理好，身体修复和减脂效率会明显提升。\n运动：从\"动起来\"开始就行\n你目前是躺着不动型，不用一上来就猛练。视频里给不运动人群的建议很友好：\n先打开微信运动记步数， 每天走 1 万～1.2 万步 ，上班路上加下班后额外走路就够了\n下班后额外走的可以是快走类型，不用刻意去健身房\n等身体适应了，再慢慢加入每周 3～4 次正式运动，练一休一，优先力量或普拉提，单次不超过 75 分钟\n评论区不少人反馈这套方案蛋白质偏少，如果想坚持久一点，可以每天再多一颗蛋或一杯酸奶补蛋白质。你基数本身不大，重点放在体脂管理上，别只盯着体重数字。\n...展开",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6af131e80000000014000339",
+          "publishedText": "2天前",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": [
+            "平台AI回复（非用户证据）"
+          ]
+        },
+        {
+          "id": "comment-6aede244000000001300db80",
+          "text": "就输入身高体重算出来的bmi准吗，我觉得我比那个结果看起来胖呀",
+          "likes": 5,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前吉林",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aede6a4000000000202bc4b",
+          "text": "这个只是一个参考值，不是每个bmi值就对应一种身材，还要看体型体脂率这些，如果看起来更胖那应该是体脂率比较高",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aede244000000001300db80",
+          "publishedText": "4天前重庆",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af36ea2000000000b011590",
+          "text": "早餐这样吃行吗？25g隔夜燕麦",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "16小时前澳大利亚",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af3eab2000000000b01f5db",
+          "text": "罐子里是啥啊？",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6af36ea2000000000b011590",
+          "publishedText": "8小时前江苏",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeddf090000000002012e13",
+          "text": "体重130，BMI 30，算大体重吗？",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前湖北",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aede20c0000000013014725",
+          "text": "大体重",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aeddf090000000002012e13",
+          "publishedText": "4天前江苏",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee79d2000000001203a9ee",
+          "text": "154cm 52.8kg，bmi@点点",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee79e2000000000b012663",
+          "text": "BMI 约 22.3，属于正常范围\n按你的身高 154cm、体重 52.8kg 计算，BMI = 52.8 ÷ 1.54² ≈ 22.27，在正常区间（18.5～24.9）内，身体数据挺健康的。\n对照这篇笔记的计划，你的 BMI 小于 23，属于中小基数，可以在参考饮食和运动框架的基础上，适当减少主食量（比如每顿少半个拳头），效果会更明显。\n...展开",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee79d2000000001203a9ee",
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": [
+            "平台AI回复（非用户证据）"
+          ]
+        },
+        {
+          "id": "comment-6aeddeff000000000202864a",
+          "text": "BMI24",
+          "likes": 5,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前浙江",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aede00c0000000002028bf0",
+          "text": "+1",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aeddeff000000000202864a",
+          "publishedText": "4天前陕西",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee621d00000000020288f3",
+          "text": "吃少了 也不掉 保证1500大卡",
+          "likes": 4,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前四川",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee6a94000000000200fc10",
+          "text": "回复 暖味小记 。 : 在练啊，一周三次力量。每天一万步，雷打不动",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee6cce000000000f030c8e",
+          "text": "吃少了",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前黑龙江",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee75ba000000000f02de4d",
+          "text": "200克碳水啊，还有就是既然力量训练就不要看体重了可以吗？看纬度变化",
+          "likes": 8,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee8ed8000000000d028c00",
+          "text": "估计你停练2周就瘦了，有时候身体就这样，很神奇。",
+          "likes": 4,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前加拿大",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee8fff00000000130190a5",
+          "text": "回复 momo : 是的，力量训练会锁水，覆盖了脂肪的消耗",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee936d000000001300bc42",
+          "text": "他都说100到130斤了",
+          "likes": 6,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee9d75000000000200e498",
+          "text": "回复 草莓酱 : 心中的执念，想回到去年的93斤",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeed54c0000000002028756",
+          "text": "吃太少了不容易掉，拉高点热量反而容易往下走",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前北京",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeedbcb0000000012024b6c",
+          "text": "回复 ++-- : 快一年了，我只要吃到1200以上，体重蹭蹭的涨",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeef85200000000140028aa",
+          "text": "其实你主页的餐有点油哦，蛋白质碳水蔬菜的比例也可以再优化一下，膳食纤维太少了，糖略多了",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeef8ab000000000b01d181",
+          "text": "回复 Minus : 那不是我吃的，是家里的学生早餐。我是另外吃的简单。",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeef8c70000000012027419",
+          "text": "回复 张铁铁 : 我体脂25，不低呀，都是泡泡肉",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeefb6e000000000a01d661",
+          "text": "吃的这么少，体重也不高，你到底要减掉什么",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前陕西",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef00d3000000000100be6e",
+          "text": "你会不会是吃太少了～",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前辽宁",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef07a4000000000f0325cd",
+          "text": "回复 燃燃 : 吃到1200以上，天天涨秤",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.886Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef0e420000000012026d86",
+          "text": "回复 Florajeik : 你力量训练之后肯定会长肌肉呀，肌肉就是重呀但是又紧又有型～不吃够就是白辛苦，好可惜的",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前辽宁",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef0f6c0000000012026998",
+          "text": "回复 燃燃 : 腰围小了2厘米，体重涨了两斤，想想还是再坚持看看吧，或许真的就是训练带来的储水。不知道力量训练多久以后，才会明显看到体重秤数字往下走，在不吃超热量的前提下。",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef195b000000000f02f339",
+          "text": "这体重，就撸铁只看体脂不看体重了。",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "3天前上海",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef1d5c000000000200ff15",
+          "text": "回复 Florajeik : 持续锻炼的话，体重应该不会再往下掉了，不光是储水，肌纤维也会变粗吧，肌肉就是比脂肪重呀～但是纬度应该会继续收紧～",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "3天前辽宁",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af070aa000000000a02347d",
+          "text": "他不是说减体脂吗…你要减重就去节食吧",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "2天前广东",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af21067000000000b019d5a",
+          "text": "161，98还减什么啊我的老天爷，多么完美的身材",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "昨天 02:26重庆",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee69a6000000000b012b29",
+          "text": "都这么瘦了你还想瘦成啥样啊 练点肌肉吧",
+          "likes": 10,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee7bf5000000001203ab4c",
+          "text": "一百斤都不到到底在减什么啊你职业需要吗",
+          "likes": 11,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广西",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeef650000000001301a4ba",
+          "text": "这么瘦体脂都快没了，你还想刷就只能按打比赛那样了",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef58ac0000000002011502",
+          "text": "你的知识乱，长期少吃多动，身体节能了，还不敢恢复。",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee619d000000001301458a",
+          "publishedText": "3天前北京",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af3c62c0000000013014b0c",
+          "text": "回复 随便姐 : 镁片有好多种 到底买哪种丫",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6af1655700000000130097ec",
+          "publishedText": "10小时前上海",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee8388000000001203a786",
+          "text": "所谓一拳头，是一拳头正好能攥住，还是和自己的拳头一样大呢？",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee607a000000001300c5af",
+          "publishedText": "4天前北京",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeea4d9000000001300d8a7",
+          "text": "回复 L澜🌿🌊 : 一样大",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee607a000000001300c5af",
+          "publishedText": "4天前福建",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af17c88000000000b01dfa4",
+          "text": "@小璐画画中🎨 突然发现自己日常活动量太少了，就算上班一天也才三四千步[呃R][呃R]",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee607a000000001300c5af",
+          "publishedText": "2天前河南",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af17fc00000000013009c08",
+          "text": "回复 想去看大海 : 对呀，工作不可能有太强的运动量的",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee607a000000001300c5af",
+          "publishedText": "2天前河南",
+          "capturedAt": "2026-11-11T12:14:07.887Z",
+          "tags": []
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 357,
+        "captured": 51,
+        "expandedReplies": true,
+        "limitations": [
+          "尚未确认全部可访问评论末尾；本轮数据只是已读部分，不代表全部评论。"
+        ],
+        "readStatus": "partial",
+        "resumeCursor": "comment-6af17fc00000000013009c08",
+        "stopReason": "评论读取进行中"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "标题给出具体体重范围和起码掉10至15的结果预期，便于观众对号入座，但效果承诺未经核验。",
+        "structure": [
+          {
+            "label": "口播计划",
+            "description": "正面口播配字幕，评论围绕执行与个人条件追问；未完整转录视频。",
+            "frameIds": [
+              "frame-67-95"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "明确结果承诺与计划形式带来收藏用途和执行争议",
+            "explanation": "页面3317赞、2744收藏，评论有人复述计划，也有人反馈按说法执行后体重未变，不能只选成功或感谢留言。",
+            "evidenceIds": [
+              "title",
+              "metrics",
+              "comment-6aee619d000000001301458a"
+            ],
+            "confidence": "medium",
+            "alternative": "未获得曝光、完播、合作投放数据；评论为自述而非受控随访。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "希望理解体重、围度和训练进展为何不一致",
+            "description": "评论讨论围度减小而体重上涨的自述，并追问何时能看到变化；不根据评论做诊断。",
+            "commentIds": [
+              "comment-6aef0f6c0000000012026998"
+            ],
+            "priority": "P1",
+            "opportunity": "围绕多指标进度记录及观察周期解释选题，避免只用体重承诺结果。"
+          },
+          {
+            "id": "need-2",
+            "title": "食物份量表达需要可操作的示意",
+            "description": "一拳头到底是能攥住的量还是与拳头同体积，引发明确追问。",
+            "commentIds": [
+              "comment-6aee8388000000001203a786"
+            ],
+            "priority": "P1",
+            "opportunity": "用实拍容器与份量示意解释作者所指，注明条件，不替用户开处方。"
+          },
+          {
+            "id": "need-3",
+            "title": "计划需要考虑上班族的活动限制",
+            "description": "有人发现工作日仅三四千步，追问计划的现实可执行性。",
+            "commentIds": [
+              "comment-6af17c88000000000b01dfa4",
+              "comment-6af17fc00000000013009c08"
+            ],
+            "priority": "P2",
+            "opportunity": "把计划拆成不同日常场景，记录可用时间和实际执行障碍。"
+          },
+          {
+            "id": "need-4",
+            "title": "BMI与外观体型之间需要清楚解释",
+            "description": "用户追问仅凭身高体重得出的BMI与外观不符，反映指标理解困惑。",
+            "commentIds": [
+              "comment-6aede244000000001300db80"
+            ],
+            "priority": "P1",
+            "opportunity": "用可靠资料解释指标用途与局限，不把单个指标等同于外观或健康诊断。"
+          }
+        ],
+        "limitations": [
+          "已读51条，标称357条，尚未到末尾；部分长回复尚未展开，保留断点。",
+          "画面抽取部分定位未确认新帧，当前只将可确认视频帧及页面证据用于分析，未完整转录音频。",
+          "评论包含点点AI回复，已标识并排除出用户需求证据。",
+          "用户互相建议、补剂和体重归因均未核实，不视为专家建议。"
+        ],
+        "healthClaims": [
+          "标题承诺掉10至15以及口播稳定食欲、评论补镁等，均未核验，不根据传播量推断安全性或效果。"
+        ]
+      }
+    },
+    {
+      "id": "xiaohongshu:6aed71b7000000002c000048",
+      "platform": "xiaohongshu",
+      "platformId": "6aed71b7000000002c000048",
+      "title": "科学增肌，练出马甲线？专家：3个抗阻动作",
+      "author": "人民日报健康客户端",
+      "url": "https://www.xiaohongshu.com/explore/6aed71b7000000002c000048?xsec_token=ABV7p8kr7kIUbrNX-xcUHdNc-kTn2auGXLn6A2caentUM=&xsec_source=pc_feed",
+      "publishedAt": "2026-11-06",
+      "publishedText": "5天前 北京",
+      "capturedAt": "2026-11-11T12:16:46.785Z",
+      "topics": [
+        "增肌",
+        "健身",
+        "运动健康"
+      ],
+      "contentType": "动作教学",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 162.30401360544218,
+      "audience": [
+        "居家训练和增肌兴趣人群"
+      ],
+      "summary": "人民日报健康客户端发布的三动作抗阻训练内容，正文列出跪卧撑、上腹卷动与交替抬腿。评论既有收藏意愿，也有脖子疲劳、跪姿适用性、呼吸配合和镜头不完整的追问；发布者身份与高收藏不替代对具体动作效果的核验。",
+      "metrics": {
+        "likes": {
+          "value": 12000,
+          "display": "1.2万",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 16000,
+          "display": "1.6万",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 80,
+          "display": "80",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "增肌"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%25A2%259E%25E8%2582%258C&source=web_explore_feed",
+        "sort": "最多点赞",
+        "timeWindow": "一周内",
+        "rank": 1,
+        "scope": "本账号关键词增肌的一周内小红书搜索候选，非全站完整Top50。"
+      },
+      "frames": [
+        {
+          "id": "frame-0-10",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aed71b7000000002c000048/frame-0-10.png",
+          "kind": "page_capture",
+          "timestamp": null,
+          "caption": "动作一·跪卧撑近景",
+          "observed": "画面写动作一跪卧撑，示范者跪撑垫面，旁边有人以手示意肩部，字幕下去的时候慢；播放器精确帧时间未确认。"
+        },
+        {
+          "id": "frame-40-58",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aed71b7000000002c000048/frame-40-58.png",
+          "kind": "video_frame",
+          "timestamp": 40.576,
+          "caption": "跪卧撑·较完整姿势视角",
+          "observed": "示范者跪姿前撑，旁边讲解者蹲姿示意；局部近景和较完整姿势视角均可见，不能据单帧评价安全性。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "comment-6aee37b2000000000200d3ed",
+          "text": "卷腹头要抬这个高吗？脖子累",
+          "likes": 22,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:16:46.786Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee67100000000012037aed",
+          "text": "头要抬起但是脖子不要用力，用腹部发力用小腹拉起上半身脖子就不累，脖子不用弯曲那么夸张",
+          "likes": 46,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee37b2000000000200d3ed",
+          "publishedText": "4天前浙江",
+          "capturedAt": "2026-11-11T12:16:46.786Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee384e000000000a021aca",
+          "text": "我想知道她穿的鞋子是哪款",
+          "likes": 7,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前河南",
+          "capturedAt": "2026-11-11T12:16:46.788Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee68ab0000000014003140",
+          "text": "截图，购物软件识图",
+          "likes": 3,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前北京",
+          "capturedAt": "2026-11-11T12:16:46.788Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeeaca8000000000a02204b",
+          "text": "老师膝盖痛的，所有跪的动作是不是都做不了？我是髌骨软化的同学",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前四川",
+          "capturedAt": "2026-11-11T12:16:46.792Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeeacd6000000000f031495",
+          "text": "买个厚点的瑜伽垫",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aeeaca8000000000a02204b",
+          "publishedText": "4天前云南",
+          "capturedAt": "2026-11-11T12:16:46.792Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af437720000000014033be4",
+          "text": "拍得挺好，继续更新呀",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2小时前山东",
+          "capturedAt": "2026-11-11T12:16:46.792Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee72d2000000000b012b5f",
+          "text": "@点点 怎么解决腰代偿",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前北京",
+          "capturedAt": "2026-11-11T12:16:46.792Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee72d9000000000a02040b",
+          "text": "腰代偿是练腹部时很常见的问题，视频里专家也特别提到了这一点。结合笔记内容和常见的训练要点，几个关键方法可以帮你解决：\n做卷腹时保持腰部贴地：这是最核心的一点。躺下后先把腰背紧贴垫子，整个过程中都不要让腰拱起来。如果腰离地了，说明腹部发力不够，重量就跑到腰椎上了。\n控制卷起幅度，不用卷太高：视频里专家强调\"卷起的角度不用太大\"，抬到肩膀刚离地、腹部有明显收缩感就够了。卷得太高容易用腰和髋部借力，反而削弱腹部训练效果。\n手别抱头，放在大腿上：很多人做仰卧起坐时双手抱头，一用力就脖子硬拽、腰也跟着拱。把双手放在大腿两侧，用腹部把上半身\"卷\"起来，能更好隔离腹部发力。\n做抬腿动作时注意腰贴垫：视频里提到交替抬腿练下腹时，\"腰部一定要紧贴垫子，不要弓腰\"，弓腰会借腰部力量完成动作，对腰椎造成压力。如果做不到，可以先屈膝减小幅度，等核心力量上来再伸直腿。\n整体原则：动作质量优先于次数：慢一点、稳一点，每个动作都确保腹部在发力，而不是靠腰硬撑。如果某个动作做完腰不舒服，说明姿势需要调整，不要硬撑着继续练。\n...展开",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee72d2000000000b012b5f",
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T12:16:46.793Z",
+          "tags": [
+            "平台AI回复（非用户证据）"
+          ]
+        },
+        {
+          "id": "comment-6af41a53000000000a01cf64",
+          "text": "好瘦",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4小时前北京",
+          "capturedAt": "2026-11-11T12:16:46.793Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee7d60000000000a021764",
+          "text": "@点点 帮我总结这三个动作是什么",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前山东",
+          "capturedAt": "2026-11-11T12:16:46.793Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee7d63000000000a0242eb",
+          "text": "这三个动作分别是：\n1. 跪卧撑：膝盖跪在软垫上，双手比肩稍宽撑地，身体从头到膝保持一条直线，腹部和臀肌收紧，像一块钢板一样慢下慢起。关键要点是肘部与后背夹角保持在 30°~45° ，不要外展太大，这样才能练到胸肌而不是肩膀代偿。\n2. 上腹卷动（类似仰卧起坐）：双手放在大腿上，腹部收紧，上身卷起到肩膀刚离地即可，不用卷太高。每次 10~15 个 ，重复 2~4 组。卷起角度小一点、用腹部发力而不是脖子硬拽，脖子就不会累。\n3. 交替抬腿：平躺后交替抬起双腿，专攻下腹。最关键的是 腰部必须紧贴垫子 ，不能弓腰，否则会用腰部力量代偿、压迫腰椎。如果腹肌力量不够，可以先屈膝减小幅度。\n整体原则是动作标准优先于次数，慢控稳定、循序渐进。评论区不少人反馈卷腹时脖子容易累，关键就是用腹部发力带动上半身，脖子本身不用刻意弯曲那么大。\n...展开",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee7d60000000000a021764",
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T12:16:46.794Z",
+          "tags": [
+            "平台AI回复（非用户证据）"
+          ]
+        },
+        {
+          "id": "comment-6af4059e00000000120311b1",
+          "text": "先甜美的把单休取消吧，上六休一还得抽出空运动",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "6小时前辽宁",
+          "capturedAt": "2026-11-11T12:16:46.794Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af1803b000000000f02c757",
+          "text": "手腕疼咋回事呢",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前陕西",
+          "capturedAt": "2026-11-11T12:16:46.795Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af333e70000000001008ba9",
+          "text": "后知后觉普拉提的权威",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "昨天 23:10河南",
+          "capturedAt": "2026-11-11T12:16:46.795Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee728a000000000b019ba7",
+          "text": "累",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee37b2000000000200d3ed",
+          "publishedText": "4天前北京",
+          "capturedAt": "2026-11-11T12:16:46.786Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee90e5000000001300cd3b",
+          "text": "要想象一下力量从脖子转移到腹部，可以练安小雨的不累脖子的那个马甲线视频",
+          "likes": 4,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee37b2000000000200d3ed",
+          "publishedText": "4天前内蒙古",
+          "capturedAt": "2026-11-11T12:16:46.786Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeed874000000000a0201fb",
+          "text": "回复 极光雨雨 : 谢谢分享",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee37b2000000000200d3ed",
+          "publishedText": "4天前贵州",
+          "capturedAt": "2026-11-11T12:16:46.787Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef409c000000000202a8d2",
+          "text": "会很累，去健身教练总让我做两组这个动作，经常是因为肩颈好累而暂停",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee37b2000000000200d3ed",
+          "publishedText": "3天前广东",
+          "capturedAt": "2026-11-11T12:16:46.787Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af0c99c000000001300c308",
+          "text": "脖子不用力的你用力了别做了上身体",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee37b2000000000200d3ed",
+          "publishedText": "2天前广东",
+          "capturedAt": "2026-11-11T12:16:46.787Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af3a8c8000000001300de30",
+          "text": "下巴微收",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee37b2000000000200d3ed",
+          "publishedText": "12小时前山东",
+          "capturedAt": "2026-11-11T12:16:46.788Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee7d42000000001203cf5c",
+          "text": "回复 青山绿野 : 萨洛蒙",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前山东",
+          "capturedAt": "2026-11-11T12:16:46.789Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeed3e4000000000a0214dc",
+          "text": "我点开评论也是为了这",
+          "likes": 2,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:16:46.789Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee6fff0000000013009e24",
+          "text": "萨洛蒙",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前天津",
+          "capturedAt": "2026-11-11T12:16:46.789Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee7325000000001301ba50",
+          "text": "萨洛蒙",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前海南",
+          "capturedAt": "2026-11-11T12:16:46.789Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee7342000000001301bce3",
+          "text": "萨洛蒙",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前陕西",
+          "capturedAt": "2026-11-11T12:16:46.790Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee73c0000000000f02db20",
+          "text": "萨洛蒙",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前宁夏",
+          "capturedAt": "2026-11-11T12:16:46.790Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee78170000000002013fe8",
+          "text": "萨洛蒙xt- quest 白",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前天津",
+          "capturedAt": "2026-11-11T12:16:46.790Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee79db000000001303f489",
+          "text": "看起来是萨洛蒙，好像是quest",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:16:46.791Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeebeee000000001301550e",
+          "text": "萨洛蒙xt-quest好像是",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "4天前辽宁",
+          "capturedAt": "2026-11-11T12:16:46.791Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af19534000000000a01c8a3",
+          "text": "萨洛蒙XT-quest",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aee384e000000000a021aca",
+          "publishedText": "2天前广东",
+          "capturedAt": "2026-11-11T12:16:46.791Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af1570f000000000b015a47",
+          "text": "或者在膝盖下垫一个垫子就行",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aeeaca8000000000a02204b",
+          "publishedText": "2天前安徽",
+          "capturedAt": "2026-11-11T12:16:46.792Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af3adab0000000013005a9f",
+          "text": "腰不太好可以这么整吗",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "12小时前陕西",
+          "capturedAt": "2026-11-11T12:16:46.795Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af29b4c000000000201301e",
+          "text": "俯卧撑",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "昨天 12:19广东",
+          "capturedAt": "2026-11-11T12:16:46.795Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af29dd900000000020294cf",
+          "text": "挺好的，不用太大的剧烈运动，又能得到锻炼，适合睡前练一练。谢谢分享",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "昨天 12:30广东",
+          "capturedAt": "2026-11-11T12:16:46.796Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af294db0000000012039e4f",
+          "text": "这适合新手吗？",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "昨天 11:51福建",
+          "capturedAt": "2026-11-11T12:16:46.796Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeeecad000000000e0315b6",
+          "text": "收藏夾增加一員",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前中国香港",
+          "capturedAt": "2026-11-11T12:16:46.796Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af11ef2000000001203095a",
+          "text": "右手臂肩胛骨疼该怎么缓解？",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前福建",
+          "capturedAt": "2026-11-11T12:16:46.796Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeec921000000001301a1aa",
+          "text": "俯卧撑的呼吸是怎么配合的",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前安徽",
+          "capturedAt": "2026-11-11T12:16:46.797Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af1360c00000000120393a8",
+          "text": "好好好，记住了，今晚就练习",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前安徽",
+          "capturedAt": "2026-11-11T12:16:46.797Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee9bbc000000001203d040",
+          "text": "就没有个全身的镜头，都是切成一段段看",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:16:46.797Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeee11c000000000a025884",
+          "text": "交替抬腿腰贴垫子这条太重要，之前瞎猛练，第二天腰酸得直不起来才醒悟",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前浙江",
+          "capturedAt": "2026-11-11T12:16:46.797Z",
+          "tags": []
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 80,
+        "captured": 42,
+        "expandedReplies": true,
+        "limitations": [
+          "尚未确认全部可访问评论末尾；本轮数据只是已读部分，不代表全部评论。"
+        ],
+        "readStatus": "partial",
+        "resumeCursor": "comment-6aeee11c000000000a025884",
+        "stopReason": "评论读取进行中"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "用科学增肌和马甲线结果引入，标题将信息压缩为三个可跟学动作。",
+        "structure": [
+          {
+            "label": "动作一示范",
+            "description": "观察到跪卧撑近景及较完整姿势视角；正文另列两动作但未取得其可靠关键帧。",
+            "frameIds": [
+              "frame-0-10",
+              "frame-40-58"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "少量动作清单与操作解释有复习用途",
+            "explanation": "页面收藏1.6万，留言有收藏夹增加一员，也有人说今晚练习；没有实际执行或效果数据。",
+            "evidenceIds": [
+              "metrics",
+              "comment-6aeeecad000000000e0315b6",
+              "comment-6af1360c00000000120393a8"
+            ],
+            "confidence": "medium",
+            "alternative": "媒体账号影响力与健康话题分发可能影响互动；部分观众关注穿搭。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "需要全身连续示范以看清动作",
+            "description": "评论直接指出镜头切成片段，缺少全身视角。",
+            "commentIds": [
+              "comment-6aee9bbc000000001203d040"
+            ],
+            "priority": "P1",
+            "opportunity": "为每个动作提供全身连续示范，再补局部细节，避免剪辑打断动作关系。"
+          },
+          {
+            "id": "need-2",
+            "title": "发力和呼吸需要同步讲清楚",
+            "description": "有人问卷腹抬头高度、脖子累，也有人追问俯卧撑呼吸。",
+            "commentIds": [
+              "comment-6aee37b2000000000200d3ed",
+              "comment-6aee72d2000000000b012b5f",
+              "comment-6aeec921000000001301a1aa"
+            ],
+            "priority": "P1",
+            "opportunity": "用同步口令解释动作节奏、呼吸与常见疑问，未观察到的个体疼痛不能远程判断。"
+          },
+          {
+            "id": "need-3",
+            "title": "需要新手和身体条件的适用说明",
+            "description": "评论明确询问是否适合新手，另有跪姿或腰部不适者追问。",
+            "commentIds": [
+              "comment-6aeeaca8000000000a02204b",
+              "comment-6af3adab0000000013005a9f",
+              "comment-6af294db0000000012039e4f"
+            ],
+            "priority": "P1",
+            "opportunity": "注明学习门槛与适用边界，提供清楚的咨询入口，不凭评论中的建议给出康复处方。"
+          },
+          {
+            "id": "need-4",
+            "title": "训练时间需要适配工作日",
+            "description": "有评论反映上六休一难以再抽时间运动。",
+            "commentIds": [
+              "comment-6af4059e00000000120311b1"
+            ],
+            "priority": "P2",
+            "opportunity": "呈现单个动作及整组时长，帮助观众判断是否能纳入日程。"
+          }
+        ],
+        "limitations": [
+          "已读42条，标称80条，未确认全部末尾。",
+          "AI回复已标识并排除出用户证据；回复里的训练建议未核验。",
+          "媒体账号名称来自页面展示，未核验画面人物的资质与具体健康主张。",
+          "当前只有1个确认呈现的视频关键帧及1张有效定位截图；其余截图失效或呈现时间未确认，未冒充完整三动作视觉分析。"
+        ],
+        "healthClaims": [
+          "正文关于精准刺激、保护肩膀、不伤腰椎和居家高效增肌的说法均需核实条件，不能照搬为所有人的结果保证。"
+        ]
+      }
+    },
+    {
+      "id": "xiaohongshu:6ae9abbd0000000010012ce9",
+      "platform": "xiaohongshu",
+      "platformId": "6ae9abbd0000000010012ce9",
+      "title": "下班后一定要做的一个动作",
+      "author": "周六野Zoey",
+      "url": "https://www.xiaohongshu.com/explore/6ae9abbd0000000010012ce9?xsec_token=AB-3n5YqXtHQlfsxuAmzkBn2LgsLyjsSJrtYhYe8UbYz0=&xsec_source=pc_feed",
+      "publishedAt": "2026-11-05",
+      "publishedText": "6天前 上海",
+      "capturedAt": "2026-11-11T12:18:17.817Z",
+      "topics": [
+        "体态分析",
+        "运动健康",
+        "健身"
+      ],
+      "contentType": "体态纠正",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 26.166666,
+      "audience": [
+        "久坐后放松内容兴趣人群"
+      ],
+      "summary": "周六野Zoey发布的下班后放松内容，正文分别提供有人协助与独居的版本。已读评论大量围绕家庭日常、画面人物与家居物品，真正与动作执行相关的证据是独自一人时需要替代方案，不能把全部互动都归为体态需求。",
+      "metrics": {
+        "likes": {
+          "value": 7688,
+          "display": "7688",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 4681,
+          "display": "4681",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 88,
+          "display": "88",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "圆肩驼背"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%259C%2586%25E8%2582%25A9%25E9%25A9%25BC%25E8%2583%258C&source=web_explore_feed",
+        "sort": "最多点赞",
+        "timeWindow": "一周内",
+        "rank": 2,
+        "scope": "本账号圆肩驼背关键词一周内搜索候选；跳过首条无标题候选，非完整Top50。"
+      },
+      "frames": [
+        {
+          "id": "frame-0-10",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6ae9abbd0000000010012ce9/frame-0-10.png",
+          "kind": "video_frame",
+          "timestamp": 0.1,
+          "caption": "有人协助版本",
+          "observed": "客厅中一人坐沙发，一人在前方跪坐借助对方协助，画面写工具人版独居版。 截图含播放器加载叠层。"
+        },
+        {
+          "id": "frame-6-54",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6ae9abbd0000000010012ce9/frame-6-54.png",
+          "kind": "video_frame",
+          "timestamp": 6.5416665,
+          "caption": "动作主张字幕",
+          "observed": "协助者上半身近景，字幕出现脊柱减压、开胸展肩及打开蜷了一天的肩；效果主张未经核验。 截图含播放器加载叠层。"
+        },
+        {
+          "id": "frame-13-08",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6ae9abbd0000000010012ce9/frame-13-08.png",
+          "kind": "video_frame",
+          "timestamp": 13.083333,
+          "caption": "独居家具版本",
+          "observed": "示范者跪于沙发前，双臂前伸放在沙发沿，字幕写5个深呼吸，可见独立借助家具版本。 截图含播放器加载叠层。"
+        },
+        {
+          "id": "frame-19-62",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6ae9abbd0000000010012ce9/frame-19-62.png",
+          "kind": "video_frame",
+          "timestamp": 19.6249995,
+          "caption": "居家情景",
+          "observed": "同一居家跪姿伸展场景，字幕写赶走僵硬和疲惫，背景家庭活动未作为训练效果证据。 截图含播放器加载叠层。"
+        },
+        {
+          "id": "frame-23-55",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6ae9abbd0000000010012ce9/frame-23-55.png",
+          "kind": "video_frame",
+          "timestamp": 23.5499994,
+          "caption": "收尾",
+          "observed": "人物面对镜头，字幕写给身体下班的信号，呼应下班后场景。 截图含播放器加载叠层。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "comment-6aec8d380000000014003744",
+          "text": "考拉拿的书是什么？可以推荐一下吗",
+          "likes": 8,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前上海",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeded7c000000000b017290",
+          "text": "我造！叫莉莉的小世界",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aec8d380000000014003744",
+          "publishedText": "4天前德国",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aec97aa000000000202946c",
+          "text": "你们给考拉买的玩具是家政工具吗哈哈哈哈哈",
+          "likes": 53,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前上海",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeeaf8d0000000013004c07",
+          "text": "蒙氏育儿讲究照料环境自己打理环境",
+          "likes": 8,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aec97aa000000000202946c",
+          "publishedText": "4天前浙江",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aecbe3c000000000b01e932",
+          "text": "考拉像个奶牛猫似的到处捣乱",
+          "likes": 125,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前中国台湾",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af43cd30000000013016504",
+          "text": "回家准备试试",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2小时前北京",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aec6360000000001300f151",
+          "text": "哇考拉已经会站会走了 好快啊",
+          "likes": 91,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "6天前浙江",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af27a61000000000a01f285",
+          "text": "试了第一个动作，好舒服，拉完都要睡着了",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "昨天 09:58澳大利亚",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af0097700000000130056c7",
+          "text": "妈呀怎么一下子就长那么高了",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前广东",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef19a800000000020129a2",
+          "text": "考拉都会走路了",
+          "likes": 4,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前广东",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed5df8000000000200f135",
+          "text": "考拉会走啦，我家还不会独立站立ಠ╭╮ಠ",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前上海",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee1a14000000000a01d51b",
+          "text": "很好奇 谁帮你们拍的",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed7592000000000a01e08c",
+          "text": "考拉有宝宝扫帚蛮可爱",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前甘肃",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed804b000000000a022062",
+          "text": "你代言的纸尿裤！一级棒",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前吉林",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeddfa1000000001300593f",
+          "text": "好喜欢你这身穿搭可以分享么",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前日本",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed406f0000000014002be8",
+          "text": "0:21 请问考拉的小椅子是什么牌子",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前浙江",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed72500000000014000702",
+          "text": "只能先学独居版了",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前上海",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed879b0000000002010f6d",
+          "text": "请问沙发是哪个品牌呀？求分享 谢谢",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前江苏",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed705a000000001303e5c1",
+          "text": "第一个动作，我没有老公我做不了",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前广西",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeed7d50000000012030145",
+          "text": "考拉同款小板凳哈哈哈哈哈",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前四川",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed33b4000000000202a359",
+          "text": "考拉居然会走了，我家宝宝还不肯走，求博主出心得",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前浙江",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed7e000000000012039795",
+          "text": "考拉太可爱了",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前江西",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aede925000000001301582b",
+          "text": "今晚就和老公练起来",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前德国",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed76f10000000013005d21",
+          "text": "Zoey为什么现在越来越美了，感觉气色也超好",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前浙江",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed68820000000012032a8a",
+          "text": "考拉会走啦？考拉比我家宝宝小一天，会走的好快！",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前辽宁",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed32d90000000013008e60",
+          "text": "工具人",
+          "likes": 7,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前广东",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee9d4a000000000200dcfb",
+          "text": "考拉好可爱呀",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前广东",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aedad780000000013005b58",
+          "text": "沙发套推荐一下，谢谢",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前湖北",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed92e7000000001203434a",
+          "text": "哈哈哈哈考拉比妈妈忙碌多了，一直没有停过",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前浙江",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aed6c380000000013007d3b",
+          "text": "考拉是多久会走路的？",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前新疆",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aec99fb000000000b01b73a",
+          "text": "同款扫把套装看来这么大点的小孩都喜欢“干家务”",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前河南",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af02af6000000000e031abe",
+          "text": "最喜欢Zoe y",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前广东",
+          "capturedAt": "2026-11-11T12:18:17.818Z",
+          "tags": []
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 88,
+        "captured": 32,
+        "expandedReplies": true,
+        "limitations": [
+          "尚未确认全部可访问评论末尾；本轮数据只是已读部分，不代表全部评论。"
+        ],
+        "readStatus": "partial",
+        "resumeCursor": "comment-6af02af6000000000e031abe",
+        "stopReason": "评论读取进行中"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "用下班后的明确情景引入，正文把动作方案拆成有伴协助与独居两种条件。",
+        "structure": [
+          {
+            "label": "协助与独立两种条件",
+            "description": "协助者版本后切到沙发前独立伸展，结尾回到下班后放松情景。",
+            "frameIds": [
+              "frame-0-10",
+              "frame-6-54",
+              "frame-13-08",
+              "frame-19-62",
+              "frame-23-55"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "生活情景与人物日常共同带来互动",
+            "explanation": "已读32条中有大量对家庭日常和物品的讨论，与动作直接相关的留言只是一部分；不把儿童话题或穿搭询问计为体态需求。",
+            "evidenceIds": [
+              "comment-6aecbe3c000000000b01e932",
+              "comment-6aed705a000000001303e5c1",
+              "comment-6aed72500000000014000702"
+            ],
+            "confidence": "medium",
+            "alternative": "作者既有受众和平台分发可能影响互动构成，不能推断实际观众画像。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "动作需要无需他人协助的替代版本",
+            "description": "评论者说没有协助者做不了第一个动作，也有人明确选择独居版。",
+            "commentIds": [
+              "comment-6aed72500000000014000702",
+              "comment-6aed705a000000001303e5c1"
+            ],
+            "priority": "P1",
+            "opportunity": "跟练内容先标明是否需要协助者与家具，给出清楚的独立完成版本和场地条件。"
+          }
+        ],
+        "limitations": [
+          "已读32条，页面标称88条，尚未确认末尾。",
+          "正文提供的放松与睡眠收益未经专业核验，用户舒服的自述不证明疗效。",
+          "评论中家庭、穿搭、家居物品互动不计为健身功能需求。"
+        ],
+        "healthClaims": [
+          "正文声称给脊柱减压、释放椎间隙空间、睡得更好，均作为待核验作者主张记录，不是研究结论。"
+        ]
+      }
+    },
+    {
+      "id": "xiaohongshu:6aed3840000000002b01eff8",
+      "platform": "xiaohongshu",
+      "platformId": "6aed3840000000002b01eff8",
+      "title": "新手友好 30min 有氧｜轻松动起来不费力",
+      "author": "小七老师的运动馆",
+      "url": "https://www.xiaohongshu.com/explore/6aed3840000000002b01eff8?xsec_token=ABV7p8kr7kIUbrNX-xcUHdNWL10B3sxRcf8_VTkYPZhDs=&xsec_source=pc_feed",
+      "publishedAt": "2026-11-06",
+      "publishedText": "5天前 四川",
+      "capturedAt": "2026-11-11T12:18:52.086Z",
+      "topics": [
+        "运动健康",
+        "健身",
+        "减脂减肥"
+      ],
+      "contentType": "跟练课程",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 2025.8699319727891,
+      "audience": [
+        "低冲击居家跟练兴趣人群"
+      ],
+      "summary": "面向入门人群的30分钟低冲击有氧跟练，正文强调简单、舒展和无蹦跳。当前页面308赞、494收藏并明确无评论，只有内容与保存计数证据，不能编造用户需求或将其称为平台级爆款。",
+      "metrics": {
+        "likes": {
+          "value": 308,
+          "display": "308",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 494,
+          "display": "494",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 0,
+          "display": "0",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "运动健康"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E8%25BF%2590%25E5%258A%25A8%25E5%2581%25A5%25E5%25BA%25B7&source=web_explore_feed",
+        "sort": "最多点赞",
+        "timeWindow": "一周内",
+        "rank": 1,
+        "scope": "本账号运动健康关键词一周内搜索首位候选，308赞为该关键词样本，不代表全站热榜。"
+      },
+      "frames": [
+        {
+          "id": "frame-0-10",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aed3840000000002b01eff8/frame-0-10.png",
+          "kind": "video_frame",
+          "timestamp": 0.1,
+          "caption": "课程结构字幕",
+          "observed": "模糊背景中人物站在训练垫后，开头明确写30 MIN WORKOUT和3 MIN COOL DOWN。只观察到课程结构字幕，未从该帧推断动作质量。"
+        }
+      ],
+      "comments": [],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 0,
+        "captured": 0,
+        "expandedReplies": false,
+        "limitations": [
+          "仅当前账号可访问评论，不含隐藏或删除内容。"
+        ],
+        "readStatus": "all_visible",
+        "resumeCursor": "",
+        "stopReason": "页面已明确显示末尾或空评论状态，已读当前账号可访问部分"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "用新手友好、不费力和明确时长降低跟练门槛。",
+        "structure": [
+          {
+            "label": "训练与冷却",
+            "description": "开头字幕说明30分钟训练加3分钟冷却；未完整观察其全部流程。",
+            "frameIds": [
+              "frame-0-10"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "完整跟练可能主要具有保存用途",
+            "explanation": "页面308赞、494收藏，正文给出30分钟跟练定位；无评论，无法从用户原话验证跟练动机或执行结果。",
+            "evidenceIds": [
+              "title",
+              "metrics"
+            ],
+            "confidence": "low",
+            "alternative": "不同互动按钮的使用习惯、作者受众和平台展示也可能造成计数差异。"
+          }
+        ],
+        "needs": [],
+        "limitations": [
+          "页面明确显示空评论区，已确认当前可访问评论为0；无需求证据。",
+          "视频时长约33分46秒，标题30分钟属于作者描述；未完整观看课程，实际时长如实记录。",
+          "该关键词最高候选互动不高，不能当作全平台爆款。",
+          "仅1个确认呈现的开头关键帧；后段定位未确认新帧，未补写未观察到的动作。"
+        ],
+        "healthClaims": [
+          "正文关于适合入门、低冲击和练后不虚脱均为作者定位，不能保证适合所有身体条件。"
+        ]
+      }
+    },
+    {
+      "id": "xiaohongshu:6aedaf3f000000002b03d1c0",
+      "platform": "xiaohongshu",
+      "platformId": "6aedaf3f000000002b03d1c0",
+      "title": "女生新手小白第一次去健身房攻略✨",
+      "author": "臭美希希",
+      "url": "https://www.xiaohongshu.com/explore/6aedaf3f000000002b03d1c0?xsec_token=ABV7p8kr7kIUbrNX-xcUHdNfDkd4VatZ7gXFDOa6hRzzg=&xsec_source=pc_feed",
+      "publishedAt": "2026-11-06",
+      "publishedText": "5天前 辽宁",
+      "capturedAt": "2026-11-11T12:21:13.615Z",
+      "topics": [
+        "健身",
+        "增肌"
+      ],
+      "contentType": "动作教学",
+      "format": "video",
+      "researchTrack": "daily",
+      "appResearch": null,
+      "duration": 264.567,
+      "audience": [
+        "第一次去健身房的新手"
+      ],
+      "summary": "以第一次去健身房为场景，正文承诺一次学五种器械、减少新手尴尬。18条当前可访问评论已读到末尾，明确问题是小个子能否使用器械、已有爬坡有氧后如何安排力量训练，以及首次入场的尴尬；另有不少穿搭链接询问，不全部归为训练需求。",
+      "metrics": {
+        "likes": {
+          "value": 1164,
+          "display": "1164",
+          "basis": "total",
+          "window": null
+        },
+        "saves": {
+          "value": 713,
+          "display": "713",
+          "basis": "total",
+          "window": null
+        },
+        "comments": {
+          "value": 18,
+          "display": "18",
+          "basis": "total",
+          "window": null
+        },
+        "shares": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        },
+        "views": {
+          "value": null,
+          "display": "—",
+          "basis": "total",
+          "window": null
+        }
+      },
+      "discovery": {
+        "keywords": [
+          "健身"
+        ],
+        "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%2581%25A5%25E8%25BA%25AB&source=web_explore_feed",
+        "sort": "最多点赞",
+        "timeWindow": "一周内",
+        "rank": 6,
+        "scope": "本账号健身关键词一周内搜索候选；排除最高赞猫meme原创争议，选择主题明确的新手器械内容，并非全站Top50。"
+      },
+      "frames": [
+        {
+          "id": "frame-0-10",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aedaf3f000000002b03d1c0/frame-0-10.png",
+          "kind": "video_frame",
+          "timestamp": 0.1,
+          "caption": "新手攻略引入",
+          "observed": "拼接画面展示多个健身房器械与人物操作，字幕写新手小白一个人去健身房攻略，勇闯力量区。"
+        },
+        {
+          "id": "frame-66-14",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aedaf3f000000002b03d1c0/frame-66-14.png",
+          "kind": "video_frame",
+          "timestamp": 66.14175,
+          "caption": "认识热身区域",
+          "observed": "镜头指向健身房地面和训练垫区，字幕写就是热身区了，介绍场地而非直接开始负重。"
+        },
+        {
+          "id": "frame-132-28",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aedaf3f000000002b03d1c0/frame-132-28.png",
+          "kind": "video_frame",
+          "timestamp": 132.2835,
+          "caption": "器械插销操作",
+          "observed": "手部特写指向器械配重插销，字幕把它拿出来；没有从画面推断适合观众的重量。"
+        },
+        {
+          "id": "frame-198-43",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aedaf3f000000002b03d1c0/frame-198-43.png",
+          "kind": "video_frame",
+          "timestamp": 198.42525,
+          "caption": "配重设置示意",
+          "observed": "配重片和插销近景，字幕大概就是一两片的样子吧；重量仅记录作者示意，非个体训练建议。"
+        },
+        {
+          "id": "frame-238-11",
+          "path": "assets/2026-11-11-daily-1794397556841/xiaohongshu/6aedaf3f000000002b03d1c0/frame-238-11.png",
+          "kind": "video_frame",
+          "timestamp": 238.11030000000002,
+          "caption": "有氧面板操作",
+          "observed": "有氧器械面板近景，手指指向调节按钮，字幕新手可以一点一点去夹；仅记录可见按钮演示，不补写具体参数。"
+        }
+      ],
+      "comments": [
+        {
+          "id": "comment-6af069c4000000000b019f35",
+          "text": "高位下拉可以这样！可以够得到",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前河南",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af06aad000000000b010fc1",
+          "text": "这样会不会卡顿呀",
+          "likes": null,
+          "isAuthor": true,
+          "isPromotion": false,
+          "parentId": "comment-6af069c4000000000b019f35",
+          "publishedText": "2天前辽宁",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef8c86000000000a023cd6",
+          "text": "希希 想要全身链接🔗",
+          "likes": 1,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前湖南",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aefd2ca000000000b01eccd",
+          "text": "蹲",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aef8c86000000000a023cd6",
+          "publishedText": "3天前广东",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af166d5000000000b018d51",
+          "text": "每天想爬坡40min以上无氧怎么安排呀",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前湖北",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee61d0000000001300d543",
+          "text": "爱你希希",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前浙江",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef362f000000001202695c",
+          "text": "以后去健身房尽量扎起头发！！！[抽泣R]很危险的",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前内蒙古",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af08243000000001303c646",
+          "text": "宝宝有帽子链接吗",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "2天前广东",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aeed7510000000013007c3c",
+          "text": "鞋子",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前",
+          "capturedAt": "2026-11-11T12:21:13.616Z",
+          "tags": [
+            "图片留言已截图查看"
+          ]
+        },
+        {
+          "id": "comment-6af039db000000000b01e1da",
+          "text": "今天去了乐刻[扶额R]有点尴尬",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前浙江",
+          "capturedAt": "2026-11-11T12:21:13.616Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef43c4000000001203e97b",
+          "text": "帽子是什么样呀",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "3天前江西",
+          "capturedAt": "2026-11-11T12:21:13.616Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee6d6b00000000120252b2",
+          "text": "有羽绒服链接吗",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前上海",
+          "capturedAt": "2026-11-11T12:21:13.616Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af077dd000000001203793d",
+          "text": "回复 臭美希希 : 我用着是没有的",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6af069c4000000000b019f35",
+          "publishedText": "2天前河南",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6af094d50000000013019d2a",
+          "text": "蹲",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": "comment-6aef8c86000000000a023cd6",
+          "publishedText": "2天前云南",
+          "capturedAt": "2026-11-11T12:21:13.615Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aedba97000000001303ea38",
+          "text": "宝宝求裤子链接",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "5天前辽宁",
+          "capturedAt": "2026-11-11T12:21:13.616Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aef14fc000000000b017f98",
+          "text": "求全身链接",
+          "likes": null,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前浙江",
+          "capturedAt": "2026-11-11T12:21:13.616Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee038b000000000b01ca4c",
+          "text": "我很害怕个子小了很多器械用不上。到时候感觉会很尴尬",
+          "likes": 3,
+          "isAuthor": false,
+          "isPromotion": false,
+          "parentId": null,
+          "publishedText": "4天前重庆",
+          "capturedAt": "2026-11-11T12:21:13.616Z",
+          "tags": []
+        },
+        {
+          "id": "comment-6aee5c650000000013018671",
+          "text": "我发的这些小个子都可以用得上的 而且一个肌群 不只有那一种器械可以做 ",
+          "likes": null,
+          "isAuthor": true,
+          "isPromotion": false,
+          "parentId": "comment-6aee038b000000000b01ca4c",
+          "publishedText": "4天前辽宁",
+          "capturedAt": "2026-11-11T12:21:13.616Z",
+          "tags": []
+        }
+      ],
+      "commentSampling": {
+        "strategy": "低频逐屏读取、展开可访问回复，按平台评论ID去重；未确认末尾保留断点",
+        "displayedTotal": 18,
+        "captured": 18,
+        "expandedReplies": true,
+        "limitations": [
+          "仅当前账号可访问评论，不含隐藏或删除内容。"
+        ],
+        "readStatus": "all_visible",
+        "resumeCursor": "comment-6aee5c650000000013018671",
+        "stopReason": "页面已明确显示末尾或空评论状态，已读当前账号可访问部分"
+      },
+      "analysis": {
+        "status": "partial",
+        "hook": "用学会后没人知道第一次来的承诺回应新手入场尴尬，给出五种器械的学习目标。",
+        "structure": [
+          {
+            "label": "入场与区域熟悉",
+            "description": "攻略引入后介绍热身区域。",
+            "frameIds": [
+              "frame-0-10",
+              "frame-66-14"
+            ]
+          },
+          {
+            "label": "器械操作细节",
+            "description": "配重插销与器械面板特写，强调具体操作。",
+            "frameIds": [
+              "frame-132-28",
+              "frame-198-43",
+              "frame-238-11"
+            ]
+          }
+        ],
+        "hypotheses": [
+          {
+            "title": "具体入场场景与避免尴尬的诉求相符",
+            "explanation": "标题、正文面向第一次入场，用户原话提到害怕个子小器械用不上和尴尬；穿搭询问也占部分讨论，不能只归因于教学。",
+            "evidenceIds": [
+              "title",
+              "comment-6aee038b000000000b01ca4c",
+              "comment-6af039db000000000b01e1da"
+            ],
+            "confidence": "medium",
+            "alternative": "创作者受众、穿搭吸引和分发可能影响互动，没有曝光或完播数据。"
+          }
+        ],
+        "needs": [
+          {
+            "id": "need-1",
+            "title": "需要按身高说明器械是否够得到与如何调整",
+            "description": "小个子用户担心器械用不上，另一条留言关注高位下拉是否够得到。",
+            "commentIds": [
+              "comment-6af069c4000000000b019f35",
+              "comment-6aee038b000000000b01ca4c"
+            ],
+            "priority": "P1",
+            "opportunity": "器械教程先展示座椅与起始位置调节、够不到时的求助方式和替代器械，避免让新手自己冒险摸索。"
+          },
+          {
+            "id": "need-2",
+            "title": "需要把有氧与力量放进同一日程",
+            "description": "评论明确询问每天爬坡40分钟以上时，无氧如何安排。",
+            "commentIds": [
+              "comment-6af166d5000000000b018d51"
+            ],
+            "priority": "P1",
+            "opportunity": "解释安排训练时需要确认的目标、时间和恢复条件，给出适用情景而非一刀切方案。"
+          },
+          {
+            "id": "need-3",
+            "title": "首次入场需要减少尴尬的具体引导",
+            "description": "用户自述刚去健身房有些尴尬，也担心器械不适配后无所适从。",
+            "commentIds": [
+              "comment-6af039db000000000b01e1da",
+              "comment-6aee038b000000000b01ca4c"
+            ],
+            "priority": "P2",
+            "opportunity": "给出入场前准备、场地熟悉、如何向工作人员提问等具体流程。"
+          }
+        ],
+        "limitations": [
+          "18条当前可访问评论与回复已读到明确末尾，不包含隐藏或删除内容。",
+          "穿搭与商品链接询问单独识别，不解释为所有人都需要训练功能。",
+          "未核验器械具体型号、适用范围或作者的专业资质。",
+          "实际观察5个关键帧，未完整转录全部5种器械讲解；鞋子留言所附图标已查看，为表情，不增加训练需求证据。"
+        ],
+        "healthClaims": []
+      }
+    }
+  ],
+  "selectedIds": [
+    "douyin:7704947300992404746",
+    "douyin:7705309837030717091",
+    "douyin:7705324791686864817",
+    "douyin:7705741772765275115",
+    "douyin:7705042646154452042",
+    "xiaohongshu:6aed71b7000000002c000048",
+    "xiaohongshu:6ae9abbd0000000010012ce9",
+    "xiaohongshu:6aedb56f000000002303e263",
+    "xiaohongshu:6aedaf3f000000002b03d1c0",
+    "xiaohongshu:6aed3840000000002b01eff8"
+  ],
+  "coverage": [
+    {
+      "platform": "douyin",
+      "keyword": "减脂",
+      "sourceUrl": "https://www.douyin.com/jingxuan/search/%E5%87%8F%E8%84%82?aid=493fe570-901d-407c-9538-ad80c668b37a&type=general",
+      "sort": "最多点赞 / 一周内 / 不限 / 不限 / 视频",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 10,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    },
+    {
+      "platform": "douyin",
+      "keyword": "健身",
+      "sourceUrl": "https://www.douyin.com/jingxuan/search/%E5%81%A5%E8%BA%AB?aid=c7530553-aaa5-4456-a695-01e6bdb44e9f&type=general",
+      "sort": "最多点赞 / 一周内 / 不限 / 不限 / 视频",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 18,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    },
+    {
+      "platform": "douyin",
+      "keyword": "运动健康",
+      "sourceUrl": "https://www.douyin.com/jingxuan/search/%E8%BF%90%E5%8A%A8%E5%81%A5%E5%BA%B7?aid=6a1dc598-3aa2-4383-806d-5f73cd18842f&type=general",
+      "sort": "最多点赞 / 一周内 / 不限 / 不限 / 视频",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 14,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    },
+    {
+      "platform": "douyin",
+      "keyword": "增肌",
+      "sourceUrl": "https://www.douyin.com/jingxuan/search/%E5%A2%9E%E8%82%8C?aid=07d620ea-8e9c-47db-8414-668911184b8f&type=general",
+      "sort": "最多点赞 / 一周内 / 不限 / 不限 / 视频",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 2,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    },
+    {
+      "platform": "douyin",
+      "keyword": "圆肩驼背",
+      "sourceUrl": "https://www.douyin.com/jingxuan/search/%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C?aid=71f5c799-ce16-45f7-9447-4bbbd1cd1b44&type=general",
+      "sort": "最多点赞 / 一周内 / 不限 / 不限 / 视频",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 4,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    },
+    {
+      "platform": "xiaohongshu",
+      "keyword": "减脂",
+      "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%2587%258F%25E8%2584%2582&source=web_explore_feed",
+      "sort": "综合 / 最多点赞 / 不限 / 一周内 / 不限 / 不限 / 不限",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 18,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    },
+    {
+      "platform": "xiaohongshu",
+      "keyword": "健身",
+      "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%2581%25A5%25E8%25BA%25AB&source=web_explore_feed",
+      "sort": "最多点赞 / 一周内 / 不限",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 17,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    },
+    {
+      "platform": "xiaohongshu",
+      "keyword": "运动健康",
+      "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E8%25BF%2590%25E5%258A%25A8%25E5%2581%25A5%25E5%25BA%25B7&source=web_explore_feed",
+      "sort": "最多点赞 / 一周内 / 不限",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 14,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    },
+    {
+      "platform": "xiaohongshu",
+      "keyword": "增肌",
+      "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%25A2%259E%25E8%2582%258C&source=web_explore_feed",
+      "sort": "最多点赞 / 一周内 / 不限",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 17,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    },
+    {
+      "platform": "xiaohongshu",
+      "keyword": "圆肩驼背",
+      "sourceUrl": "https://www.xiaohongshu.com/search_result_ai?keyword=%25E5%259C%2586%25E8%2582%25A9%25E9%25A9%25BC%25E8%2583%258C&source=web_explore_feed",
+      "sort": "最多点赞 / 一周内 / 不限",
+      "timeWindow": "近一周；详情核实日期",
+      "scanned": 16,
+      "stopReason": "保存当前可访问搜索候选，未穷尽全站结果"
+    }
+  ],
+  "report": {
+    "summary": "纠偏补采：新增抖音5条、小红书5条，共10条原话题主线样本，覆盖健身、运动健康、体态分析、减脂减肥与增肌，App调研单独保留。当前为首批样本，未达到每日各平台50条。",
+    "findings": [
+      "体态动作清单有保存用途：抖音8.7万赞、6.7万收藏；小红书7688赞、4681收藏的下班放松内容提供协助与独居版本，评论确实需要独立完成方案。",
+      "具体动作说明比泛泛教程更值得关注：小红书增肌样本约1.2万赞、1.6万收藏，评论追问全身连续镜头、呼吸、发力和新手适用条件。",
+      "健身房体验属于消费决策内容：抖音约8万赞、5.8万分享，已读评论比较门店位置、服务权益、费用和便利设施。",
+      "减脂话题中出现份量表达、工作日活动限制、BMI理解和体重/围度进度困惑；保留反对与执行受阻意见，不只收正反馈。",
+      "互动数不能等同于需求：明确要求留言谢谢的视频产生大量感谢；体态帖子也有家庭日常闲聊。小红书AI回复、表情、作者和推广不计入独立用户需求。",
+      "新手健身房攻略1164赞，18条可访问评论已到末尾：身高与器械适配、有氧后如何安排力量、入场尴尬是明确问题；穿搭链接询问另行识别。"
+    ],
+    "opportunities": [
+      "优先做全身连续动作示范、同步呼吸发力提示与常见疑问解释，注明学习条件。",
+      "把有伴/独居、可用器械、可用时间等实际条件放在选题和方案前面。",
+      "围绕进度如何观察、份量如何理解制作可核验说明，不承诺固定减重速度。",
+      "场所评测明确具体门店、拍摄时间、费用条件和设施差异。"
+    ],
+    "limitations": [
+      "本批为纠偏样本，不是全站榜或完整Top50；未达到抖音50+小红书50目标。",
+      "抖音来自精选电脑版的关键词搜索候选；普通入口已确认存在，但本批未完成普通全量搜索采集。小红书为当前账号一周内关键词搜索结果，不是全平台总排名。",
+      "运动健康关键词小红书首位仅308赞，作为低冲击课程观察样本，不称平台级爆款。",
+      "10条中2条有评论帖子（26条、18条）已读到可访问末尾，另1条为空评论；其余7条仍部分读取，保存断点，不冒充全量。",
+      "部分视频后段定位未收到可靠新帧或截图无效，只入库实际查看的有效画面，未补写未看到的内容；分析仍标partial。",
+      "帖子互动数为采集时页面近似累计值，无曝光、完播、投流或因果验证数据；健康效果主张均未专业核验。",
+      "关键词命中的猫meme原创争议候选已排除，不计入人体健身主线。"
+    ]
+  }
+}

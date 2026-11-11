@@ -1,0 +1,20 @@
+{
+  "timezone": "Asia/Shanghai",
+  "windowDays": 7,
+  "topPerPlatform": 50,
+  "candidatePerKeyword": 60,
+  "commentsPerItem": 50,
+  "recentCommentsPerItem": 20,
+  "frameCount": 5,
+  "keywords": [
+    "健身",
+    "运动健康",
+    "体态分析",
+    "减脂",
+    "减肥",
+    "增肌",
+    "力量训练",
+    "圆肩驼背"
+  ],
+  "includePromotion": true
+}
