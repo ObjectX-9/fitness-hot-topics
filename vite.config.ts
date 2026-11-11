@@ -6,6 +6,6 @@ import { localDataPlugin } from './server/plugin';
 export default defineConfig({
   plugins: [react(), tailwindcss(), localDataPlugin()],
   resolve: { alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) } },
-  server: { host: '127.0.0.1', port: 5178, strictPort: true },
-  preview: { host: '127.0.0.1', port: 5178, strictPort: true },
+  server: { host: '127.0.0.1', port: 38479, strictPort: true },
+  preview: { host: '127.0.0.1', port: 38479, strictPort: true },
 });
