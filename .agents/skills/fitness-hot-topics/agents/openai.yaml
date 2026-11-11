@@ -1,0 +1,4 @@
+interface:
+  display_name: "健身热点研究"
+  short_description: "用 ego 采集抖音与小红书内容、截帧和评论，分析传播与用户需求。"
+  default_prompt: "使用 $fitness-hot-topics 执行今天的采集与分析，遵守低频预算和风控停止条件，将真实数据与截图保存到当前仓库本地研究库。"
