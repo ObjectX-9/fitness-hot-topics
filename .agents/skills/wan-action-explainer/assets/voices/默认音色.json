@@ -1,0 +1,19 @@
+{
+  "id": "05",
+  "name": "男声A_明亮利落",
+  "status": "active",
+  "adoption": "confirmed",
+  "confirmedAt": "2026-11-12",
+  "confirmedBy": "用户选择“用05 A”，并要求放入wan skill",
+  "targetModel": "qwen-audio-3.1-tts-plus",
+  "voiceId": "qwen-audio-3.1-tts-plus-vd-fite1112-acf9ffde4ed34498b74c55209d8c0f75",
+  "samplePath": "05_男声A_明亮利落.mp3",
+  "pathBase": "本JSON所在目录",
+  "durationSeconds": 9.984583,
+  "previewText": "哑铃飞鸟。仰卧平凳，双脚踩稳。肘部保持微屈，双臂沿弧线打开，再缓缓合拢。",
+  "description": "成年男声，中音区略偏高，明亮通透、干净集中，语速轻快，短停顿，动作词自然重音，句尾利落。",
+  "referenceRole": "动作讲解默认音色参考，Wan原生生成讲解",
+  "sourceWorkspace": "/Users/zhuling/Documents/zaodian/short-drama",
+  "sourceManifest": "成片归档/动作讲解_音色选角_20261112/已选音色.json",
+  "sourceSample": "成片归档/动作讲解_音色选角_20261112/第二轮_参考原片/05_男声A_明亮利落.mp3"
+}

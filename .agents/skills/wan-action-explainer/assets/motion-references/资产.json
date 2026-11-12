@@ -1,0 +1,50 @@
+{
+  "status": "active",
+  "purpose": "真实教学视频的审看与动作生成参考；不等同于运动捕捉数据",
+  "source": {
+    "organization": "NASM",
+    "page": "https://www.nasm.org/resource-center/exercise-library/barbell-bench-press",
+    "video": "https://www.youtube.com/watch?v=CayG6UYqL8g",
+    "retrievedAt": "2026-11-12"
+  },
+  "assets": [
+    {
+      "id": "nasm-bench-press-source",
+      "path": "NASM_杠铃卧推_去原声.mp4",
+      "status": "active",
+      "role": "原片动作审看、定位完整周期和各阶段",
+      "processing": "移除原音轨，H.264转码，30fps，保留原速度与画幅",
+      "review": "已抽帧审看；包含机位切换，后续按实际镜头截取，不将整片直接视为连续动作周期"
+    },
+    {
+      "id": "nasm-bench-press-descent",
+      "path": "NASM_卧推下放_3.25-4.85.mp4",
+      "status": "active",
+      "sourceRangeSeconds": [
+        3.25,
+        4.85
+      ],
+      "role": "下放运动与底部落点参考",
+      "processing": "去原声，H.264，30fps，原速",
+      "review": "本次实际用于修正版下放镜生成；再次使用仍需查看片段，生成结果需独立核对"
+    }
+  ],
+  "doNotUse": [
+    {
+      "sourceRangeSeconds": [
+        3,
+        4.5
+      ],
+      "reason": "截取结束偏早，没有覆盖真正底部；不能当作完整下放参考"
+    },
+    {
+      "sourceRangeSeconds": [
+        4.5,
+        6
+      ],
+      "reason": "旧推起阶段估算，需从真正底部重新确认"
+    }
+  ],
+  "caseManifest": "/Users/zhuling/Documents/zaodian/short-drama/成片归档/健身猫_杠铃卧推预览_20261112/V3_修正侧面与同步/资产.json",
+  "adoption": "作为动作参考素材登记，不代表最新生成视频已获用户定稿"
+}
